@@ -1,559 +1,559 @@
-,Country,Number_Ordered,Weapon,Weapon_Type,Date_Ordered,Date_Delivered,Number_Delivered,Comments
-0,Somalia,12.0, Tiger, APV,2017.0, 2017,12.0, Possibly second-hand; probably aid
-1,Bangladesh,5.0, CSOC-50m, Patrol craft,2011.0, 2013,5.0,
-2,Bangladesh,2.0, LPC-1, Corvette,2014.0, 2017,2.0, Bangladeshi designation Durjoy
-3,Egypt,400.0, Type-59-1 130mm, Towed gun,1985.0, 1986-1995,400.0, Type-59-1M version; possibly illegally copied and produced in Egypt
-4,Egypt,80.0, K-8 Karakorum-8, Trainer/combat ac,1999.0, 2001-2005,80.0, $345 m deal; K-8E version; 70 assembled from kits in Egypt
-5,Egypt,18.0, ASN-209, UAV,2010.0, 2012-2014,18.0,
-6,Iran,250.0, Type-63 107mm, Towed MRL,1985.0, 1986-1990,250.0,
-7,Iran,200.0, M-7/CSS-8, SSM,1989.0, 1990-1994,200.0, Iranian designation Tondar-69; probably incl assembly/production in Iran
-8,Iran,380.0, C-802/CSS-N-8, Anti-ship missile,1992.0, 1994-2012,380.0, Incl for Hudong Thondor. new-produced and modernized Combattante-2 Kaman FAC and coast defence systems; possibly incl air-launched version; Iranian designation Tondar or Noor; status since 2010 uncertain due to UN arms embargo
-9,Iran,1100.0, QW-1 Vanguard, Portable SAM,1993.0, 1996-2006,1100.0, Iranian designation Misagh-1
-10,Iran,150.0, Type-86, APC,1996.0, 1997-2011,150.0, Iranian designation Boraq; incl IFV. anti-tank. mortar-carrier and command versions
-11,Iran,260.0, FL-6, Anti-ship missile,1998.0, 1999-2015,260.0, Developed or copied by China from Italian Sea Killer Marte-2 anti-ship missile supplied by Iran to China; Iranian designation Fajr-e Darya; incl for SH-3D helicopters; status since 2010 uncertain due to UN arms embargo
-12,Iran,150.0, TL-10/FL-8, Anti-ship missile,2002.0, 2004-2015,150.0, TL-10A and possibly TL-10B version; status since 2010 uncertain due to UN arms embargo
-13,Iran,50.0, C-704, Anti-ship missile,2003.0, 2010-2011,50.0, Developed for Iran; Iranian designation Nasr-1
-14,Iran,50.0, C-801, Anti-ship missile,2004.0, 2006-2015,50.0, Iranian designation Kosar and/or Sagheb; incl submarine-launched version; status since 2010 uncertain due to UN arms embargo
-15,Iran,650.0, QW-11, Portable SAM,2005.0, 2006-2015,650.0, Iranian designation Misagh-2; status since 2010 uncertain due to UN arms embargo
-16,Malaysia,4.0, LMS-68, OPV,2017.0,,, Incl 2 produced in Malaysia; delivery planned 2019-2021
-17,Myanmar,2.0, Anawrahta, Corvette,1997.0, 2001-2003,2.0,
-18,Myanmar,1.0, Aung Zeya, Frigate,2006.0, 2011,1.0,
-19,North Korea,4000.0, Type-63 107mm, Towed MRL,1963.0, 1964-1990,4000.0,
-20,North Korea,500.0, YW-531/Type-63, APC,1972.0, 1972-1992,500.0, North Korean designation VTT-323
-21,North Korea,23.0, Type-033/Romeo, Type-6633; Project-633,1973.0, 1973-1995,23.0, 16 assembled/produced in North Korea
-22,North Korea,1000.0, HN-5A, Portable SAM,1981.0, 1985-1994,1000.0, Incl HN-5 version
-23,Pakistan,6.0, K-8 Karakorum-8, Trainer/combat ac,1987.0, 1994,6.0, Incl some components produced in Pakistan and some assembled in Pakistan
-24,Pakistan,1000.0, HN-5A, Portable SAM,1988.0, 1989-1998,1000.0, Pakistani designation Anza-1
-25,Pakistan,55.0, M-11/CSS-7, SSM,1988.0, 1992-1994,55.0, Incl assembly in Pakistan
-27,Pakistan,268.0, Type-85-IIM, Tank,1990.0, 1992-1996,268.0, Type-85-IIAP version; incl assembly from kits and production in Pakistan
-29,Pakistan,65.0, W-653/Type-653, ARV,1994.0, 1995-2000,65.0, Incl assembly/production in Pakistan; Pakistani designation ARV-W653
-30,Pakistan,530.0, Type-90-2M/MBT-2000, Tank,1998.0, 2001-2017,325.0, Al-Khalid and Al-Khalid-I or Al-Khalid-1 versions
-31,Pakistan,50.0, JF-17 Thunder/FC-1, FGA aircraft,1999.0, 2007-2013,50.0, JF-17 Block-1 version; developed for Pakistan; incl production of components and assembly in Pakistan; incl 8 mainly for testing and first 42 production version ordered 2009 for $800 m
-32,Pakistan,6.0, K-8 Karakorum-8, Trainer/combat ac,2001.0, 2003,6.0, Incl production of components and assembly in Pakistan
-33,Pakistan,4.0, F-22, Frigate,2005.0, 2009-2013,4.0, $500-750 m deal; F-22P version; incl 1 produced in Pakistan; Pakistani designation Zulfiquar
-34,Pakistan,27.0, K-8 Karakorum-8, Trainer/combat ac,2005.0, 2007-2010,27.0, K-8P version
-35,Pakistan,48.0, A-100 300mm, Self-propelled MRL,2008.0, 2011-2013,48.0,
-36,Pakistan,20.0, CH-3, UAV/UCAV,2009.0, 2013-2016,20.0,
-37,Pakistan,2.0, Azmat, Corvette,2010.0, 2012-2014,2.0, Incl 1 produced in Pakistan
-38,Pakistan,50.0, JF-17 Thunder/FC-1, FGA aircraft,2011.0, 2015-2017,48.0, JF-17 Block-2 version
-39,Pakistan,50.0, JF-17 Thunder/FC-1, FGA aircraft,2012.0,,, JF-17 Block-3 version; delivery possibly from 2019
-40,Pakistan,2.0, Azmat, Corvette,2013.0, 2017,1.0, Delivery planned 2017-218
-41,Pakistan,2.0, CSTC-1500, OPV,2015.0,,, Designation uncertain reported as '1500t patrol vessel' from Chinese company CSTC; for coast guard; incl 1 produced in Pakistan; Pakistani designation Hingol; delivery probably planned 2018-2019/2020
-42,Pakistan,4.0, CSTC-600, OPV,2015.0, 2016-2017,3.0, Designation uncertain reported as '600t patrol vessel' from Chinese company CSTC; for coast guard; incl 2 produced in Pakistan; Pakistani designation Hingol; delivery 2016-2019/2020
-43,Pakistan,8.0, Type-041/Yuan, Submarine,2015.0,,, Probably S-20 version; incl 4 produced in Pakistan; delivery 2022-2028
-44,Romania,6.0, Type-025/Huchuan, FAC,1987.0, 1988-1990,6.0,
-45,Sudan,460.0, Type-63 107mm, Towed MRL,2000.0, 2001-2014,460.0, Incl production in Sudan as TAKA-1
-46,Thailand,2.0, Naresuan, Frigate,1989.0, 1994-1995,2.0, Weapons and electronics fitted in Thailand
-47,Thailand,18.0, WS-1 302mm, Self-propelled MRL,2008.0, 2011-2017,11.0, Thai designation DTi-1
-48,Turkey,24.0, WS-1 302mm, Self-propelled MRL,1997.0, 1998-2000,24.0, No. may be up to 144; 5 and rockets assembled/produced in Turkey
-49,Turkey,200.0, B-611, SSM,1999.0, 2002-2012,200.0, Turkish designation Yildirim or Project-J or J-600T; possibly incl B-611M version
-50,Albania,1.0, HY-2 CDS, Coast defence system,1994.0, 1995,1.0,
-51,Albania,15.0, HY-2/SY-1A/CSS-N-2, Anti-ship missile,1994.0, 1995,15.0,
-52,Algeria,3.0, Type-363, Air search radar,1983.0, 1988-2002,3.0, For 3 Djebel Chenoua FAC produced in Algeria
-53,Algeria,1.0, Mourafek, Support ship,1988.0, 1990,1.0, For coast guard
-54,Algeria,7.0, Chui-E, Patrol craft,1989.0, 1990-1991,7.0, Algerian designation El Mouderrib; for Coast Guard
-55,Algeria,25.0, C-802/CSS-N-8, Anti-ship missile,1999.0, 2000-2002,25.0, For Djebel Chenoua FAC
-56,Algeria,3.0, Type-347G, Fire control radar,2000.0, 2000-2002,3.0, For 3 Djebel Chenoua FAC produced in Algeria
-57,Algeria,1.0, Daxin, Training ship,2004.0, 2006,1.0, Algerian designation Soummam
-58,Algeria,18.0, WA-021/Type-88 155mm, Towed gun,2007.0, 2010,18.0,
-59,Algeria,3.0, C-28A, Frigate,2012.0, 2015-2016,3.0, C-28A version
-60,Algeria,50.0, C-802/CSS-N-8, Anti-ship missile,2012.0, 2015-2016,50.0, For C-28A frigates
-61,Algeria,50.0, FM-90, SAM,2012.0, 2015-2016,50.0, For C-28A frigates
-62,Algeria,50.0, PLZ-45 155mm, Self-propelled gun,2013.0, 2014,50.0,
-63,Algeria,18.0, SR-5, Self-propelled MRL,2016.0, 2017,18.0,
-64,Angola,45.0, BF6, Diesel engine,2013.0, 2015,45.0, For 45 Casspir APC from South Africa; designation uncertain reported as 'Chinese' engine
-65,Angola,10.0, WMA-301 Assaulter, AFSV,2015.0, 2016,10.0,
-66,Angola,5.0, WZ-551, APC,2015.0, 2016,5.0,
-67,Argentina,4.0, WZ-551, APC,2008.0, 2010,4.0, $2.6 m deal; WZ-551B1 version; for Argentinian UN forces
-68,Armenia,4.0, WM-80 273mm, Self-propelled MRL,1999.0, 1999,4.0,
-69,Bahamas,2.0, Tiger, APV,2016.0, 2017,2.0, Part of $1.2 m aid
-70,Bahrain,4.0, SR-5, Self-propelled MRL,2015.0, 2016,4.0,
-71,Bangladesh,12.0, A-5C/Fantan, FGA aircraft,1989.0, 1989-1990,12.0, No. could be 20
-72,Bangladesh,20.0, F-7M Airguard, Fighter aircraft,1989.0, 1989-1990,20.0, F-7MB version; incl 4 FT-7B
-73,Bangladesh,250.0, PL-2, SRAAM,1989.0, 1989-1990,250.0, For A-5C and F-7M combat aircraft
-74,Bangladesh,50.0, Type-85, APC,1989.0, 1989-1990,50.0,
-75,Bangladesh,50.0, HN-5A, Portable SAM,1990.0, 1991-1992,50.0,
-76,Bangladesh,42.0, M-30 122mm, Towed gun,1991.0, 1992,42.0, Designation uncertain; possibly Type-54-1 version
-77,Bangladesh,50.0, Type-69, Tank,1991.0, 1991,50.0, Type-69-I and Type-69-II version
-78,Bangladesh,10.0, HY-1/SY-1/CSS-N-1, Anti-ship missile,1992.0, 1992,10.0, For Huangfen Durdharsha FAC
-79,Bangladesh,5.0, HY-2/SY-1A/CSS-N-2, Anti-ship missile,1992.0, 1992,5.0, For Hegu Durbar FAC; SY-1A CSS-N-2 version
-80,Bangladesh,1.0, Type-021/Huangfen, FAC,1992.0, 1992,1.0, Bangladeshi designation Durdharsha
-81,Bangladesh,1.0, Type-024/Hegu, FAC,1992.0, 1992,1.0, Bangladeshi designation Burbar
-82,Bangladesh,1.0, Project-254/T-43, Minesweeper,1993.0, 1994,1.0, Bangladeshi designation Sagar
-83,Bangladesh,5.0, W-653/Type-653, ARV,1993.0, 1993,5.0,
-84,Bangladesh,10.0, BT-6/PT-6, Trainer aircraft,1995.0, 1996,10.0,
-85,Bangladesh,1.0, Type-062-1/Haizhui, Patrol craft,1995.0, 1995,1.0, Shanghai-3 version; Bangladeshi designation Barkat
-86,Bangladesh,18.0, Type-59-1 130mm, Towed gun,1995.0, 1996,18.0, Designation uncertain; possibly Second-hand
-87,Bangladesh,4.0, F-7M Airguard, Fighter aircraft,1996.0, 1999-2000,4.0, FT-7BG version
-88,Bangladesh,21.0, HN-5A, Portable SAM,2000.0, 2001,21.0, HN-5JA1 version
-89,Bangladesh,114.0, Red Arrow-8, Anti-tank missile,2000.0, 2001,114.0,
-90,Bangladesh,20.0, Type-83 122mm, Towed gun,2003.0, 2004,20.0,
-91,Bangladesh,1.0, Crotale, SAM system,2004.0, 2007,1.0, FM-90 version; for DW-2000 frigate
-92,Bangladesh,250.0, QW-2, Portable SAM,2004.0, 2007,250.0,
-93,Bangladesh,10.0, C-802/CSS-N-8, Anti-ship missile,2005.0, 2008,10.0, For 1 Jianghu Type-053 or Type-510 frigate
-94,Bangladesh,54.0, D-30 122mm, Towed gun,2005.0, 2006-2007,54.0, Type-96 version
-95,Bangladesh,100.0, PL-7, SRAAM,2005.0, 2005-2007,100.0, For F-7MG combat aircraft
-96,Bangladesh,14.0, PL-9, SRAAM,2005.0, 2006-2008,14.0, For F-7MG combat aircraft
-97,Bangladesh,20.0, R-440 Crotale, SAM,2005.0, 2007,20.0, FM-90 version; for DW-2000 Bangabandhu frigate
-98,Bangladesh,16.0, F-7MG, Fighter aircraft,2006.0, 2006,16.0, $44-118 m deal; F-7BG version
-99,Bangladesh,1.0, F-7M Airguard, Fighter aircraft,2007.0, 2007,1.0, F-7AM or FT-7A version; possibly loan
-100,Bangladesh,174.0, Type-59G, Tank,2009.0, 2014-2017,120.0, Bangladeshi Type-59 tanks rebuilt to Type-59G in Bangladesh with kits from China
-101,Bangladesh,58.0, Type-69-IIG, Tank,2009.0, 2010-2013,58.0, Bangladeshi Type-69-II tanks rebuilt to Type-69-IIG in Bangladesh with kits from China
-102,Bangladesh,2.0, FM-90, SAM system,2010.0, 2011,2.0,
-103,Bangladesh,75.0, FM-90, SAM,2010.0, 2011,75.0,
-104,Bangladesh,16.0, C-704, Anti-ship missile,2011.0, 2012-2013,16.0, For LPC-1 corvettes
-105,Bangladesh,16.0, F-7MG, Fighter aircraft,2011.0, 2012-2013,16.0, F-7BGI version
-106,Bangladesh,2.0, LPC-1, Corvette,2011.0, 2013,2.0, Bangladeshi designation Durjoy
-107,Bangladesh,3.0, Type-654, ARV,2011.0, 2012,3.0,
-108,Bangladesh,44.0, Type-90-2M/MBT-2000, Tank,2011.0, 2012-2013,44.0, BDT12 b $160 m deal
-109,Bangladesh,30.0, C-802/CSS-N-8, Anti-ship missile,2012.0, 2014,30.0, For Type-053 or Type-510 Jianghu frigates
-110,Bangladesh,15.0, C-802/CSS-N-8, Anti-ship missile,2012.0, 2015,15.0, For Type-056 Shadhinata frigates
-111,Bangladesh,50.0, HHQ-10, SAM,2012.0, 2015,50.0, For Type-056 Shadhinata frigates
-112,Bangladesh,2.0, Type-053H2/Jianghu-3, Frigate,2012.0, 2014,2.0, Second-hand; Bangladeshi designation Abu Bakar
-113,Bangladesh,2.0, Type-056, Frigate,2012.0, 2015,2.0, Bangladeshi designation Shadhinata
-114,Bangladesh,9.0, K-8 Karakorum-8, Trainer/combat ac,2013.0, 2014-2015,9.0, K-8W version
-115,Bangladesh,2.0, Type-035G/Ming, Submarine,2013.0, 2016,2.0, Second-hand but modernized before delivery; BDT16 b $203 m deal; Bangladeshi designation Nabajatra
-116,Bangladesh,18.0, WS-22 122mm, Self-propelled MRL,2013.0, 2014-2015,18.0,
-117,Bangladesh,60.0, Yu-4 533mm, AS torpedo,2013.0, 2016,60.0, Probably second-hand; for Type-035G submarines; designation uncertain
-118,Bangladesh,11.0, BT-6/PT-6, Trainer aircraft,2015.0, 2016-2017,11.0,
-119,Bangladesh,15.0, C-802/CSS-N-8, Anti-ship missile,2015.0,,, For Type-056 Shadhinata frigates
-120,Bangladesh,2.0, FM-90, SAM system,2015.0, 2016,2.0,
-121,Bangladesh,75.0, FM-90, SAM,2015.0, 2016,75.0,
-122,Bangladesh,100.0, FN-6, Portable SAM,2015.0,,, FN-16 version; possibly incl assembly in Banghladesh
-123,Bangladesh,50.0, HHQ-10, SAM,2015.0,,, For Type-056 Shadhinata frigates
-124,Bangladesh,2.0, Type-056, Frigate,2015.0,,, Bangladeshi designation Shadhinata
-125,Belarus,6.0, A-200 301mm, MRL,2013.0, 2016,6.0, For B-200 Polonez self-propelled MRL produced in Belarus
-126,Belarus,10.0, VN-3, APV,2016.0, 2017,5.0, Aid; delivery 2017-2018
-127,Benin,2.0, ZFB-05, APC,2008.0, 2010,2.0,
-128,Benin,10.0, BF6, Diesel engine,2012.0, 2013,10.0, For 10 Casspir APC from South Africa; designation uncertain reported as Chinese engine
-129,Bolivia,18.0, D-20 152mm, Towed gun,1992.0, 1992,18.0, Designation uncertain; possibly Type-66 version
-130,Bolivia,36.0, M-30 122mm, Towed gun,1992.0, 1992-1993,36.0, Type-54-1 version; probably Second-hand
-131,Bolivia,30.0, HN-5A, Portable SAM,1995.0, 1995,30.0,
-132,Bolivia,500.0, Red Arrow-8, Anti-tank missile,2003.0, 2003,500.0,
-133,Bolivia,6.0, K-8 Karakorum-8, Trainer/combat ac,2009.0, 2011,6.0, $58 m deal; K-8WB version
-134,Bolivia,6.0, AS365/AS565 Panther, Helicopter,2012.0, 2014,6.0, $108-113 m deal; H-425 Z-9 version
-135,Bolivia,27.0, Tiger, APV,2015.0, 2016,27.0, Aid
-136,Bosnia-Herzegovina,300.0, Red Arrow-8, Anti-tank missile,1993.0, 1993-1994,300.0, Incl for WZ-91 tank-destroyer; possibly delivered via Middle Eastern country
-137,Bosnia-Herzegovina,10.0, WZ-91/Type-92, Tank destroyer,1993.0, 1993-1994,10.0, Status uncertain; possibly delivered via Middle Eastern country
-138,Burundi,15.0, WZ-551, APC,2012.0, 2012,15.0,
-139,Cambodia,2.0, Y-12, Light transport ac,1994.0, 1994,2.0,
-140,Cambodia,4.0, Type-062-1G/Lushun, Patrol craft,2007.0, 2007,4.0, Part of $60 m deal financed by Chinese loan; designation uncertain
-141,Cambodia,50.0, FN-6, Portable SAM,2008.0, 2009,50.0, Possibly FN-16 version
-142,Cambodia,12.0, AS365/AS565 Panther, Helicopter,2011.0, 2013,12.0, $195 m deal financed by Chinese loan; incl 4 armed version
-143,Cambodia,2.0, MA60, Transport aircraft,2012.0, 2012,2.0,
-144,Cameroon,2.0, MA60, Transport aircraft,2011.0, 2013,2.0,
-145,Cameroon,50.0, FN-6, Portable SAM,2012.0, 2013,50.0, FN-16 version
-146,Cameroon,12.0, GDF 35mm, AA gun,2012.0, 2013,12.0, Type-90 PG-99 version
-147,Cameroon,2.0, Type-07, APC,2012.0, 2013,2.0,
-148,Cameroon,18.0, Type-07P/VN-1, IFV,2012.0, 2012-2013,18.0,
-149,Cameroon,15.0, Type-825, Fire control radar,2012.0, 2013,15.0, For use with GDF anti-aircraft guns
-150,Cameroon,12.0, WMA-301 Assaulter, AFSV,2012.0, 2014,12.0,
-151,Cameroon,2.0, P-108, Patrol craft,2013.0, 2014,2.0,
-152,Cameroon,50.0, Red Arrow-8, Anti-tank missile,2013.0, 2014,50.0, For Z-9 combat helicopters
-153,Cameroon,4.0, Z-9WZ, Combat helicopter,2013.0, 2014,4.0, Z-9WE version
-154,Chad,6.0, Type-81 122mm, Self-propelled MRL,2006.0, 2007,6.0,
-155,Chad,10.0, ZFB-05, APC,2006.0, 2007,10.0,
-156,Chad,12.0, WMA-301 Assaulter, AFSV,2007.0, 2010,12.0,
-157,Chad,10.0, WZ-523, APC,2007.0, 2008,10.0,
-158,Chad,30.0, WMA-301 Assaulter, AFSV,2012.0, 2013,30.0, Designation uncertain reported as 'battle tank'
-159,Congo,5.0, ZFB-05, APC,2005.0, 2006-2007,5.0,
-160,Congo,9.0, ZFB-05, APC,2009.0, 2009,9.0, Designation uncertain
-161,Cote d'Ivoire,1.0, Predator, Patrol craft,2017.0, 2017,1.0, CNY30 m $4.4 m aid
-162,Djibouti,1.0, MA60, Transport aircraft,2013.0, 2014,1.0, Incl for support of Djibouti peacekeeping troops in Somalia and VIP transport
-163,Djibouti,1.0, WMA-301 Assaulter, AFSV,2014.0, 2015,1.0,
-164,Djibouti,2.0, Y-12, Light transport ac,2015.0, 2016,2.0, Y-12E version
-165,Ecuador,72.0, HN-5A, Portable SAM,1992.0, 1994,72.0, Deal incl also 30 launchers
-166,Ecuador,50.0, Red Arrow-8, Anti-tank missile,1993.0, 1994,50.0,
-167,Ecuador,2.0, BT-6/PT-6, Trainer aircraft,2005.0, 2006,2.0, Aid; BT-6/CJ-6 version
-168,Ecuador,1.0, YLC-18, Air search radar,2009.0, 2010,1.0, Probably second-hand; loan as interim until delivery and integration of new YLC-2 and YLC-18 radars but new radar cancelled 2013
-169,Ecuador,1.0, YLC-2, Air search radar,2009.0, 2010,1.0, Probably second-hand; loan as interim until delivery and integration of new YLC-2 and YLC-18 radars but new radar cancelled 2013
-170,Egypt,1.0, JY-9, Air search radar,1992.0, 1993,1.0,
-171,Egypt,40.0, K-8 Karakorum-8, Trainer/combat ac,2004.0, 2007-2010,40.0, K-8E version; assembled from kits in Egypt
-172,Egypt,3.0, Wing Loong-1, UAV/UCAV,2016.0, 2017,3.0,
-173,Equatorial Guinea,1.0, Salamandra -, Landing ship,2008.0, 2009,1.0, Equatorial Guinean designation Osa; probably sold via Ukraine and possibly designed in Ukraine and produced in China; armament and radars fitted in Ukraine
-174,Eritrea,4.0, Y-12, Light transport ac,1994.0, 1994,4.0,
-175,Ethiopia,25.0, Type-63 107mm, Towed MRL,1998.0, 1999,25.0,
-176,Ethiopia,18.0, WA-021/Type-88 155mm, Towed gun,1998.0, 1999,18.0,
-177,Ethiopia,10.0, Type-89/ZSD-89, APC,2011.0, 2013,10.0,
-178,Ethiopia,20.0, WZ-551, APC,2011.0, 2012-2014,20.0,
-179,Ethiopia,1.0, HQ-64, SAM system,2012.0, 2013,1.0,
-180,Ethiopia,75.0, PL-11/FD-60, BVRAAM,2012.0, 2013,75.0, For HQ-64 SAM system
-181,Gabon,16.0, Type-63 107mm, Towed MRL,2004.0, 2004,16.0,
-182,Gabon,10.0, Type-63 130mm, Self-propelled MRL,2004.0, 2004,10.0, Designation uncertain reported as 130mm MRL
-183,Gabon,4.0, Type-90 122mm, Self-propelled MRL,2004.0, 2004,4.0, Designation uncertain reported as 122mm MRL
-184,Gabon,3.0, WZ-523, APC,2005.0, 2006,3.0,
-185,Gabon,3.0, ZFB-05, APC,2005.0, 2006,3.0,
-186,Ghana,6.0, D-30 122mm, Towed gun,2001.0, 2001,6.0, Supplier uncertain; possibly second-hand
-187,Ghana,3.0, Type-81 122mm, Self-propelled MRL,2004.0, 2004,3.0, Designation and supplier uncertain
-188,Ghana,4.0, K-8 Karakorum-8, Trainer/combat ac,2006.0, 2007,4.0, Partly paid with 1 second-hand Gulfstream-3 transport aircraft
-189,Ghana,4.0, Type-062-1G/Lushun, Patrol craft,2009.0, 2011,4.0, Designation uncertain
-190,Ghana,58.0, WZ-523, APC,2009.0, 2009-2010,58.0, Possibly incl other armoured vehicles
-191,Ghana,4.0, WZ-523, APC,2012.0, 2013,4.0, Ambulance version
-192,Ghana,24.0, WZ-523/Type-05, IFV,2012.0, 2013,24.0,
-193,Ghana,4.0, AS365/AS565 Panther, Helicopter,2014.0, 2015,4.0, Z-9 version
-194,Guyana,1.0, Y-12, Light transport ac,2001.0, 2002,1.0,
-195,Indonesia,3.0, C-802/CSS-N-8, Anti-ship missile,2005.0, 2008,3.0, Part of $11.2 m deal; for PB-57 Todak FAC; for evaluation
-196,Indonesia,130.0, QW-3, Portable SAM,2006.0, 2006-2007,130.0, Incl for Indonesian UN peacekeeping force in Lebanon
-197,Indonesia,200.0, QW-3, Portable SAM,2008.0, 2012-2013,200.0, For TD-2000B AD system
-198,Indonesia,2.0, SR-74, Air search radar,2008.0, 2012-2013,2.0, For use with TD-2000B AD systems
-199,Indonesia,8.0, TD-2000B, AD system,2008.0, 2012-2013,8.0, Part of $35 m deal
-200,Indonesia,15.0, QW-3, Portable SAM,2009.0, 2010,15.0,
-201,Indonesia,3.0, TH-5711 Smart Hunter, Air search radar,2009.0, 2011,3.0, For use with QW-3 SAM
-202,Indonesia,8.0, Type-347G, Fire control radar,2009.0, 2015-2016,8.0, Type-347G2 for 8 KCR-40 FAC produced in Indonesia
-203,Indonesia,8.0, Type-360 Seagull, Air search radar,2009.0, 2011-2014,8.0, For 8 KCR-40 FAC produced in Indonesia; designation and supplier uncertain
-204,Indonesia,100.0, C-705, Anti-ship missile,2011.0, 2014-2017,66.0, For KCR-40 and KCR-60 FAC; including assembly from kits or production in Indonesia from 2017/2018
-205,Indonesia,25.0, C-802/CSS-N-8, Anti-ship missile,2011.0, 2012-2016,25.0, For PB-57 Todak FAC and Van Speyk Ahmad Yani frigates
-206,Indonesia,8.0, NG-18 30mm, Naval gun,2013.0, 2013-2014,8.0, For 8 KCR-40 FAC produced in Indonesia
-207,Indonesia,1.0, Type-825 30mm, Naval gun/CIWS,2014.0, 2015,1.0, For modernization of 1 Pattimura Parchim corvette
-208,Indonesia,4.0, GDF 35mm, AA gun,2015.0, 2016,4.0, Type-90 version
-209,Indonesia,1.0, Skyguard, Fire control radar,2015.0, 2016,1.0, AF-902 version; for use with GDF Type-90 35mm anti-aircraft guns
-210,Indonesia,4.0, Type-90 122mm, Self-propelled MRL,2015.0, 2016,4.0, Type-90B version
-211,Indonesia,2.0, NG-18 30mm, Naval gun,2016.0, 2017,2.0, For modernization of 2 KCR-60 FAC
-212,Indonesia,1.0, Type-825 30mm, Naval gun/CIWS,2016.0, 2017,1.0, For modernization of 1 Pattimura Parchim corvette
-213,Indonesia,4.0, Wing Loong-1, UAV/UCAV,2017.0,,,
-214,Iran,100.0, HY-2/SY-1A/CSS-N-2, Anti-ship missile,1988.0, 1988-1994,100.0, HY-2 version; possibly incl C-601 CAS-1 air-launched version
-215,Iran,30.0, CSS-8 TEL, Mobile SSM launcher,1989.0, 1990-1994,30.0, Iranian designation Tondar-69
-216,Iran,8.0, HQ-2/CSA-1, SAM system,1989.0, 1989-1991,8.0,
-217,Iran,200.0, HQ-2/CSA-1, SAM,1989.0, 1989-1991,200.0,
-218,Iran,15.0, WA-021/Type-88 155mm, Towed gun,1990.0, 1991,15.0,
-219,Iran,25.0, F-7M Airguard, Fighter aircraft,1991.0, 1993,25.0, Probably F-7N version
-220,Iran,106.0, Type-59-1 130mm, Towed gun,1991.0, 1992,106.0,
-221,Iran,125.0, C-801, Anti-ship missile,1992.0, 1995-1998,125.0, Incl C-801A version for modernized Saam Alvand frigates and Hudong Thondor and for modernized Combattante Kaman FAC and air-launched C-801K version; Iranian designation Karus; possibly assembled/produced in Iran
-222,Iran,10.0, Hudong, FAC,1992.0, 1994-1996,10.0,
-223,Iran,9.0, Y-12, Light transport ac,1993.0, 1994-1995,9.0, For Revolutionary Guards
-224,Iran,2.0, Y-7, Transport aircraft,1994.0, 1998,2.0,
-225,Iran,5.0, F-7M Airguard, Fighter aircraft,1995.0, 1996,5.0, Designation uncertain reported as combat aircraft
-226,Iran,3.0, JY-14, Air search radar,1996.0, 1999-2001,3.0,
-227,Iran,40.0, C-701/FL-8, Anti-ship missile,1998.0, 2001-2004,40.0, For China Cat FAC; C-701T and possibly C-701R version; possibly assembled/produced in Iran as Noor. Kosar or Fajr-e Darya
-228,Iran,6.0, Crotale, SAM system,1998.0, 1999-2004,6.0, HQ-7 FM-80 version; possibly incl production in Iran as Shahab Thaqeb
-229,Iran,250.0, R-440 Crotale, SAM,1998.0, 1999-2004,250.0, HQ-7 FM-80 version; possibly produced in Iran as Shahab Thaqeb
-230,Iran,9.0, China Cat, FAC,2000.0, 2001-2004,9.0, Incl 4 modified version without anti-ship missiles
-231,Iraq,5.0, Predator, Patrol craft,2002.0, 2004,5.0, Funded by US aid
-232,Iraq,20.0, AR-1, ASM,2014.0, 2015,20.0, For CH-4B UAV
-233,Iraq,4.0, CH-4, UAV/UCAV,2014.0, 2015,4.0, Armed CH-4B version
-234,Iraq,20.0, FT-9, Guided bomb,2014.0, 2015,20.0, For CH-4B UAV
-235,Jordan,150.0, W-86 120mm, Mortar,2004.0, 2005,150.0,
-236,Jordan,4.0, WM-80 273mm, Self-propelled MRL,2009.0, 2010,4.0,
-237,Jordan,20.0, QW-2, Portable SAM,2014.0, 2014,20.0, Designation uncertain
-238,Jordan,2.0, CH-4, UAV/UCAV,2015.0, 2016,2.0, CH-4B armed version
-239,Kazakhstan,2.0, Wing Loong-1, UAV/UCAV,2015.0, 2016,2.0,
-240,Kenya,6.0, Y-12, Light transport ac,1996.0, 1997,6.0,
-241,Kenya,6.0, Y-12, Light transport ac,1999.0, 2000,6.0,
-242,Kenya,32.0, WZ-551, APC,2006.0, 2007,32.0,
-243,Kenya,4.0, AS365/AS565 Panther, Helicopter,2009.0, 2010,4.0, Z-9WA armed version
-244,Kenya,5.0, AS365/AS565 Panther, Helicopter,2012.0, 2014-2015,5.0, Z-9WA armed version
-245,Kenya,30.0, VN-4, APV/APC,2015.0, 2016,30.0, For police
-246,Kenya,25.0, CS/VP3, APC,2016.0, 2016,25.0, For police
-247,Khmer Rouge Cambodia*,24.0, Type-59, Tank,1990.0, 1990,24.0, Aid; probably Second-hand
-248,Kuwait,27.0, PCZ-45, ALV,1998.0, 2000-2001,27.0, Part of $187 m deal
-249,Kuwait,27.0, PLZ-45 155mm, Self-propelled gun,1998.0, 2000-2001,27.0, Part of $187 m deal
-250,Kuwait,4.0, Type-85, APC,1998.0, 2000-2001,4.0, Part of $187 m deal; ZCY-45 and ZCL-45 command post versions for use with PLZ-45 self-propelled guns
-251,Kuwait,1.0, W-653/Type-653, ARV,1998.0, 2000,1.0, Part of $187 m deal
-252,Kuwait,24.0, PCZ-45, ALV,2001.0, 2002-2003,24.0, Part of $200 m deal
-253,Kuwait,24.0, PLZ-45 155mm, Self-propelled gun,2001.0, 2002-2003,24.0, Part of $200 m deal
-254,Kuwait,4.0, Type-85, APC,2001.0, 2002-2003,4.0, Part of $200 m deal; ZCY-45 and ZCL-45 command post versions for use with PLZ-45 self-propelled guns
-255,Kuwait,1.0, W-653/Type-653, ARV,2001.0, 2003,1.0, Part of $200 m deal
-256,Laos,1.0, Y-7, Transport aircraft,1990.0, 1990,1.0, Y-7-100 version
-257,Laos,2.0, AS365/AS565 Panther, Helicopter,2006.0, 2008,2.0, Z-9A version; no. could be up to 4
-258,Laos,2.0, MA60, Transport aircraft,2010.0, 2012,2.0, MA-600 version
-259,Laos,2.0, MA60, Transport aircraft,2012.0, 2013,2.0, MA-600 version
-260,Laos,9.0, LE-500 Little Eagle, Light aircraft,2015.0, 2015-2017,9.0,
-261,Malaysia,64.0, FN-6, Portable SAM,2008.0, 2009,64.0,
-262,Mali,2.0, AS365/AS565 Panther, Helicopter,2000.0, 2000,2.0, Aid; Z-9B version
-263,Mali,2.0, Y-12, Light transport ac,2016.0, 2017,2.0, Y-12E version
-264,Mauritania,2.0, Y-12, Light transport ac,1994.0, 1995-1996,2.0,
-265,Mauritania,1.0, Y-7, Transport aircraft,1996.0, 1997,1.0, Y-7-100C version
-266,Mauritania,1.0, Huangpu, Patrol craft,2001.0, 2002,1.0, Mauritanian designation Limam el Hadrami
-267,Mauritania,2.0, AS365/AS565 Panther, Helicopter,2002.0, 2003,2.0, Z-9 version
-268,Mauritania,2.0, Huangpu, Patrol craft,2014.0, 2016,2.0,
-269,Mexico,13.0, Model-56 105mm, Towed gun,2006.0, 2006,13.0, $14 m deal; Type-90 M-90 version
-270,Morocco,12.0, AR-2/PHL-03 300mm, Self-propelled MRL,2009.0, 2010,12.0,
-271,Morocco,54.0, Type-90-2M/MBT-2000, Tank,2009.0, 2010,54.0,
-272,Morocco,75.0, PL-9, SRAAM,2010.0, 2011-2012,75.0, For Sky Shield air defence systems
-273,Morocco,50.0, Red Arrow-8, Anti-tank missile,2010.0, 2010,50.0,
-274,Morocco,6.0, Sky Shield, AD system,2010.0, 2011-2012,6.0,
-275,Myanmar,3.0, JLG-43, Height-finding radar,1988.0, 1989-1991,3.0, Possibly Second-hand
-276,Myanmar,3.0, JLP-40, Air search radar,1988.0, 1989-1991,3.0, Possibly Second-hand
-277,Myanmar,55.0, Type-63, Light tank,1989.0, 1989-1990,55.0,
-278,Myanmar,30.0, Type-69, Tank,1989.0, 1990,30.0, Type-69-II version
-279,Myanmar,100.0, Type-85, APC,1989.0, 1990,100.0,
-280,Myanmar,2.0, F-6/J-6, Fighter aircraft,1990.0, 1991,2.0, Probably FT-6 trainer version
-281,Myanmar,12.0, F-7M Airguard, Fighter aircraft,1990.0, 1990-1991,12.0, Incl 2 FT-7 version
-282,Myanmar,200.0, HN-5A, Portable SAM,1990.0, 1990-1992,200.0,
-283,Myanmar,75.0, PL-2, SRAAM,1990.0, 1990-1991,75.0, For F-7M combat aircraft
-284,Myanmar,10.0, Type-037/Hainan, Patrol craft,1990.0, 1991-1993,10.0, Myanmarese designation Yan Sit Aung
-285,Myanmar,4.0, Type-311, Fire control radar,1990.0, 1990-1993,4.0, For use with 24 Type-74 37mm AA guns; could be Type-702
-286,Myanmar,24.0, Type-74 37mm, AA gun,1990.0, 1990-1993,24.0,
-287,Myanmar,5.0, EFR-1, Fire control radar,1991.0, 2002-2003,5.0, For 5 Myanmar patrol craft produced in Myanmar
-288,Myanmar,5.0, Type-76A 37mm, Naval gun,1991.0, 1998-2002,5.0, For 5 Myanmar patrol craft produced in Myanmar
-289,Myanmar,2.0, Y-12, Light transport ac,1991.0, 1992,2.0, Y-12-IV version
-290,Myanmar,4.0, Y-8, Transport aircraft,1991.0, 1994,4.0, Y-8D version
-291,Myanmar,24.0, A-5C/Fantan, FGA aircraft,1992.0, 1997-1998,24.0,
-292,Myanmar,12.0, F-7M Airguard, Fighter aircraft,1992.0, 1993,12.0, Incl 2 FT-7 version
-293,Myanmar,1.0, JY-8A, Fire control radar,1992.0, 1993,1.0, For use with Type-59 57mm AA guns
-294,Myanmar,225.0, PL-2, SRAAM,1992.0, 1993-1998,225.0, For F-7M and A-5C combat aircraft
-295,Myanmar,12.0, F-7M Airguard, Fighter aircraft,1993.0, 1998-1999,12.0, Incl some FT-7 version
-296,Myanmar,40.0, PL-2, SRAAM,1993.0, 1998-1999,40.0, For F-7M combat aircraft; status uncertain
-297,Myanmar,100.0, PL-5B, SRAAM,1993.0, 1998-1999,100.0, For F-7M combat aircraft
-298,Myanmar,50.0, Type-63, Light tank,1993.0, 1993,50.0,
-299,Myanmar,30.0, Type-63 107mm, Towed MRL,1993.0, 1993,30.0,
-300,Myanmar,50.0, Type-69, Tank,1993.0, 1995,50.0, Type-69-II version
-301,Myanmar,150.0, Type-85, APC,1993.0, 1993,150.0,
-302,Myanmar,50.0, C-801, Anti-ship missile,1994.0, 1995-1997,50.0, For Houxin Maga FAC
-303,Myanmar,6.0, Type-037-1G/Houxin, FAC,1994.0, 1995-1997,6.0, Myanmarese designation Maga
-304,Myanmar,3.0, Type-344, Fire control radar,1996.0, 2004-2005,3.0, For 3 Myanmar FAC produced in Myanmar
-305,Myanmar,12.0, K-8 Karakorum-8, Trainer/combat ac,1997.0, 1999,12.0,
-306,Myanmar,8.0, AK-230 30mm, Naval gun,2001.0, 2004-2007,8.0, For 4 Myamnar FAC produced in Myanmar; supplier uncertain
-307,Myanmar,30.0, C-801, Anti-ship missile,2001.0, 2004-2005,30.0, For Myanmar FAC; designation uncertain could be C-802
-308,Myanmar,25.0, Type-59D, Tank,2002.0, 2004,25.0, Probably second-hand Type-59 rebuilt to Type-59D before delivery
-309,Myanmar,2.0, BT-6/PT-6, Trainer aircraft,2005.0, 2006,2.0,
-310,Myanmar,20.0, Type-90 122mm, Self-propelled MRL,2005.0, 2006,20.0,
-311,Myanmar,20.0, C-802/CSS-N-8, Anti-ship missile,2007.0, 2008-2009,20.0, For modernization of 2 frigates
-312,Myanmar,6.0, SH-1 155mm, Self-propelled gun,2008.0, 2009,6.0,
-313,Myanmar,5.0, TH-5711 Smart Hunter, Air search radar,2008.0, 2010,5.0,
-314,Myanmar,20.0, C-802/CSS-N-8, Anti-ship missile,2009.0, 2013-2014,20.0, For FAC-491 FAC
-315,Myanmar,50.0, K-8 Karakorum-8, Trainer/combat ac,2009.0, 2011-2016,24.0, No. could be 60 or 72; assembled in Myanmar
-316,Myanmar,2.0, NG-18 30mm, Naval gun,2009.0, 2013-2014,2.0, For 2 FAC-491 FAC produced in Myanmar
-317,Myanmar,2.0, Type-348, Sea search radar,2009.0, 2013-2014,2.0, For 2 FAC-491 FAC produced in Myanmar
-318,Myanmar,50.0, Type-90-2M/MBT-2000, Tank,2009.0, 2012-2013,50.0,
-319,Myanmar,8.0, NG-18 30mm, Naval gun,2010.0, 2014-2015,8.0, For 2 Kyan Sit Thar frigates produced in Myanmar; designation and supplier uncertain could be AK-630 from Russia or other supplier
-320,Myanmar,2.0, Type-347G, Fire control radar,2010.0, 2014-2015,2.0, For 2 Kyan Sit That frigates produced in Myanmar; for use with 76mm gun
-321,Myanmar,2.0, Type-360 Seagull, Air search radar,2010.0, 2014-2015,2.0, Type-364 Seagull-C version; for 2 Kyan Sit That frigates produced in Myanmar
-322,Myanmar,20.0, Type-81 122mm, Self-propelled MRL,2010.0, 2012,20.0,
-323,Myanmar,100.0, WMA-301 Assaulter, AFSV,2010.0, 2012-2015,100.0,
-324,Myanmar,10.0, ZFB-05, APC,2010.0, 2011,10.0,
-325,Myanmar,30.0, C-802/CSS-N-8, Anti-ship missile,2011.0, 2012,30.0, For Type-053 Jianghu-2 frigates
-326,Myanmar,10.0, C-802/CSS-N-8, Anti-ship missile,2011.0, 2016,10.0, For Tabinshwehti corvette produced in Myanmar
-327,Myanmar,25.0, HY-2/SY-1A/CSS-N-2, Anti-ship missile,2011.0, 2012,25.0, Probably second-hand; for Type-053 Jianghu-2 frigates
-328,Myanmar,2.0, NG-18 30mm, Naval gun,2011.0, 2016,2.0, For 1 Tabinshwehti corvette produced in Myanmar; supplier possibly China
-329,Myanmar,2.0, Type-53/Jianghu-1, Frigate,2011.0, 2012,2.0, Second-hand; Type-053H1 Jianghu-2 version
-330,Myanmar,76.0, WZ-551/Type-92, IFV,2011.0, 2012-2013,76.0,
-331,Myanmar,12.0, CH-3, UAV/UCAV,2013.0, 2014-2015,12.0,
-332,Myanmar,4.0, KS-1A, SAM system,2013.0, 2015-2016,4.0,
-333,Myanmar,200.0, KS-1A, SAM,2013.0, 2015-2016,200.0,
-334,Myanmar,16.0, JF-17 Thunder/FC-1, FGA aircraft,2015.0, 2017,4.0, Possibly from Pakistani production line
-335,Myanmar,2.0, Y-8, Transport aircraft,2015.0, 2016,2.0, Y-8F-200W version
-336,Namibia,2.0, Y-12, Light transport ac,1997.0, 1997,2.0,
-337,Namibia,4.0, K-8 Karakorum-8, Trainer/combat ac,2000.0, 2001,4.0, No. could be up to 12
-338,Namibia,12.0, F-7MG, Fighter aircraft,2005.0, 2006-2008,12.0, F-7NM version; incl FT-7NM version
-339,Namibia,21.0, WZ-523, APC,2008.0, 2009,21.0, For Namibian UN peacekeeping units
-340,Namibia,2.0, AS365/AS565 Panther, Helicopter,2009.0, 2012,2.0, H-425 Z-9 version
-341,Namibia,1.0, Elephant, OPV,2010.0, 2012,1.0,
-342,Namibia,10.0, WZ-523/Type-05, IFV,2012.0, 2013,10.0,
-343,Nepal,5.0, WZ-551, APC,2005.0, 2005,5.0,
-344,Niger,5.0, ZFB-05, APC,2007.0, 2009,5.0,
-345,Niger,2.0, WZ-523, APC,2008.0, 2009,2.0,
-346,Nigeria,15.0, F-7M Airguard, Fighter aircraft,2005.0, 2010,15.0, $251 m deal; F-7NI version; incl 3 FT-7NI version
-347,Nigeria,20.0, PL-9, SRAAM,2005.0, 2010,20.0, $20 m deal part of $32 m deal incl other armament; PL-9C version; for F-7NI combat aircraft
-348,Nigeria,2.0, P18N, OPV,2012.0, 2014-2016,2.0, NGN6.8 m $42 m deal
-349,Nigeria,120.0, CS/VP3, APC,2013.0, 2014-2015,120.0,
-350,Nigeria,30.0, AR-1, ASM,2014.0, 2014,30.0,
-351,Nigeria,5.0, CH-3, UAV/UCAV,2014.0, 2014,5.0, Armed UCAV version
-352,Nigeria,1.0, Type-62, Patrol craft,2014.0, 2015,1.0, Aid
-353,North Korea,30.0, F-7A/J-7, Fighter aircraft,1988.0, 1989-1991,30.0, F-7B version
-354,Oman,6.0, Type-90 122mm, Self-propelled MRL,2001.0, 2002,6.0,
-355,Oman,50.0, WZ-551, APC,2003.0, 2003,50.0, WZ-551B version; incl CP and ambulance version
-356,Pakistan,75.0, F-7M Airguard, Fighter aircraft,1988.0, 1989-1991,75.0, $225 m deal; F-7P F-7MP version; incl 15 FT-7P version
-357,Pakistan,4.0, P-58A, Patrol craft,1988.0, 1989-1990,4.0, Pakistani designation Barkat; for coast guard
-358,Pakistan,250.0, Type-69, Tank,1990.0, 1993-1999,250.0, Type-69-IIP or Type-69-IIMP version; incl assembly and probably production in Pakistan
-359,Pakistan,40.0, F-7M Airguard, Fighter aircraft,1992.0, 1993,40.0, F-7P F-7MP version
-360,Pakistan,87.0, Type-59-1 130mm, Towed gun,1992.0, 1998-2000,87.0,
-361,Pakistan,3.0, LL-1, Fire control radar,1994.0, 1996-1997,3.0, For modernization of 3 Tariq Amazon or Type-21 frigates; for use with LY-60N SAM system
-362,Pakistan,40.0, PL-11/FD-60, BVRAAM,1994.0, 1996-1997,40.0, For 3 modernized Tariq Amazon frigates
-363,Pakistan,2.0, Type-76A 37mm, Naval gun,1995.0, 1997-1999,2.0, For 2 Jalalat FAC produced in Pakistan
-364,Pakistan,6.0, Y-12, Light transport ac,1995.0, 1996-1997,6.0,
-365,Pakistan,2.0, Type-347G, Fire control radar,1996.0, 1997-1999,2.0, For 2 Jalalat FAC produced in Pakistan
-366,Pakistan,20.0, C-802/CSS-N-8, Anti-ship missile,1997.0, 1997-1999,20.0, For Jalalat FAC
-367,Pakistan,46.0, F-7MG, Fighter aircraft,2001.0, 2001-2003,46.0, F-7PG version; incl 6 or 9 FT-7PG version
-368,Pakistan,11.0, F-7MG, Fighter aircraft,2002.0, 2003,11.0, F-7PG version
-369,Pakistan,6.0, A-5C/Fantan, FGA aircraft,2003.0, 2003,6.0,
-370,Pakistan,20.0, C-802/CSS-N-8, Anti-ship missile,2003.0, 2006,20.0, For Jurrat FAC
-371,Pakistan,143.0, D-30 122mm, Towed gun,2003.0, 2003-2004,143.0,
-372,Pakistan,2.0, Type-347G, Fire control radar,2003.0, 2006,2.0, For 2 Jurrat FAC from Thailand
-373,Pakistan,1.0, YLC-2, Air search radar,2003.0, 2003,1.0,
-374,Pakistan,10.0, YLC-6, Air search radar,2003.0, 2005-2006,10.0,
-375,Pakistan,6.0, AS565S Panther, ASW helicopter,2005.0, 2009-2010,6.0, Z-9EC version
-376,Pakistan,70.0, C-802/CSS-N-8, Anti-ship missile,2005.0, 2009-2013,70.0, For Jiangwei F-22P frigates
-377,Pakistan,100.0, R-440 Crotale, SAM,2005.0, 2009-2013,100.0, For Jiangwei F-22P frigates; HQ-7 FM-80 version
-378,Pakistan,600.0, PL-12/SD-10, BVRAAM,2006.0, 2010-2017,375.0, For JF-17 and possibly modernized Mirage-3/5 combat aircraft
-379,Pakistan,1000.0, PL-5E, SRAAM,2006.0, 2009-2017,760.0, For JF-17 combat aircraft; PL-5E-II version
-380,Pakistan,100.0, C-802/CSS-N-8, Anti-ship missile,2008.0, 2012-2017,60.0, For JF-17 combat aircraft
-381,Pakistan,750.0, LS-3, Guided bomb,2008.0, 2010-2017,575.0, For JF-17 combat aircraft
-382,Pakistan,1000.0, LS-6-500, Guided bomb,2008.0, 2010-2017,625.0, For JF-17 combat aircraft
-383,Pakistan,750.0, LT-2, Guided bomb,2008.0, 2010-2017,550.0, For JF-17 combat aircraft
-384,Pakistan,2.0, SLC-2, Arty locating radar,2008.0, 2010,2.0, For use with A-100 MRL
-385,Pakistan,150.0, WMD-7, Aircraft EO system,2008.0, 2009-2017,85.0, For JF-17 combat aircraft
-386,Pakistan,4.0, ZDK-03, AEW&C aircraft,2008.0, 2011-2014,4.0, $278 m deal; designated KE-03 in Pakistan
-387,Pakistan,50.0, FN-6, Portable SAM,2009.0, 2010,50.0,
-388,Pakistan,30.0, C-802/CSS-N-8, Anti-ship missile,2010.0, 2012-2014,30.0, For Azmat FAC
-389,Pakistan,50.0, CM-400AKG, Anti-ship missile,2010.0, 2012-2016,50.0, For JF-17 combat aircraft
-390,Pakistan,4.0, F-7A/J-7, Fighter aircraft,2010.0, 2010,4.0, Second-hand; FT-7A version; aid
-391,Pakistan,20.0, GDF 35mm, AA gun,2011.0, 2012,20.0, Type-90 version
-392,Pakistan,100.0, LD-10, ARM,2011.0, 2014-2017,100.0,
-393,Pakistan,10.0, Skyguard, Fire control radar,2011.0, 2012,10.0, For use with GDF Type-90 35mm anti-aircraft guns
-394,Pakistan,30.0, C-802/CSS-N-8, Anti-ship missile,2013.0, 2017,15.0, For Azmat FAC
-395,Pakistan,10.0, FM-90, SAM system,2013.0, 2014-2016,10.0,
-396,Pakistan,400.0, FM-90, SAM,2013.0, 2014-2016,400.0,
-397,Pakistan,8.0, IBIS-150, Air search radar,2014.0, 2016-2017,8.0, $40 m deal
-398,Pakistan,300.0, LY-80, SAM,2014.0, 2015-2016,300.0,
-399,Pakistan,3.0, LY-80 SAMS, SAM system,2014.0, 2015-2016,3.0, $599 m deal
-400,Pakistan,3.0, WZ-10, Combat helicopter,2014.0, 2015,3.0,
-401,Pakistan,80.0, C-802/CSS-N-8, Anti-ship missile,2015.0,,, For 6 Type-041 S-20 submarines
-402,Pakistan,100.0, SET-65 Yenot-2, ASW torpedo,2015.0,,, Yu-3 version; for Type-041 submarines
-403,Pakistan,2.0, Wing Loong-1, UAV/UCAV,2015.0, 2015,2.0,
-404,Pakistan,100.0, Yu-4 533mm, AS torpedo,2015.0,,, For 6 Type-041 submarines
-405,Pakistan,1.0, Type-054A/Jiangkai-2, Frigate,2017.0,,, Option on 2 more
-406,Peru,6.0, Y-12, Light transport ac,1991.0, 1991-1992,6.0, Y-12-II version
-407,Peru,15.0, FN-6, Portable SAM,2009.0, 2010,15.0, $1.1 m deal
-408,Peru,10.0, QW-11, Portable SAM,2009.0, 2009,10.0, QW-18 version
-409,Peru,27.0, Type-90 122mm, Self-propelled MRL,2013.0, 2015,27.0, $39 m deal; Type-90BM version
-410,Qatar,12.0, BP-12A, SSM,2016.0, 2017,12.0, For SY-400 MRL
-411,Qatar,2.0, SY-400 TEL, Self-propelled MRL/SSM TEL,2016.0, 2017,2.0,
-412,Rwanda,6.0, SH-3 122mm, Self-propelled gun,2006.0, 2007,6.0,
-413,Rwanda,20.0, ZFB-05, APC,2008.0, 2008,20.0, Designation uncertain
-414,Saudi Arabia,54.0, PLZ-45 155mm, Self-propelled gun,2007.0, 2008-2009,54.0,
-415,Saudi Arabia,2.0, CH-4, UAV/UCAV,2014.0, 2015,2.0,
-417,Senegal,12.0, WMA-301 Assaulter, AFSV,2015.0, 2016,12.0,
-418,Senegal,1.0, WZ-551, APC,2015.0, 2016,1.0, Command post version
-419,Seychelles,2.0, Y-12, Light transport ac,2011.0, 2011,2.0, Aid; incl for maritime patrol
-420,Seychelles,1.0, Type-62, Patrol craft,2013.0, 2014,1.0, Aid; Seychelles designation Etoile
-421,Sierra Leone,1.0, Type-062-1/Haizhui, Patrol craft,1997.0, 1997,1.0, Sierra Leonese designation Rassin
-422,Sierra Leone,1.0, Type-062/Shanghai, Patrol craft,2005.0, 2006,1.0, Possibly Second-hand; aid; Shanghai-3 version
-423,Sierra Leone,6.0, Type-83 122mm, Towed gun,2010.0, 2011,6.0, Possibly second-hand; aid; Type-96 version
-424,Sierra Leone,10.0, VN-4, APV/APC,2015.0, 2016,10.0, For use by Sierra Leone peacekeeping forces in Mali; designation uncertain reported as 'MRAP'.
-425,Slovakia,1.0, A319, Transport aircraft,2016.0, 2017,1.0, Second-hand from Hong Kong-based civilian operator; A319-100 version; incl for government VIP transport
-426,South Africa,50.0, FN-6, Portable SAM,2015.0, 2016,50.0,
-427,South Sudan,1200.0, Red Arrow-73, Anti-tank missile,2013.0, 2014,1200.0, $14.5 m deal incl 100 launchers; Red Arrow-73D version
-428,Sri Lanka,5.0, F-7A/J-7, Fighter aircraft,1990.0, 1991,5.0, F-7B version; incl 1 FT-7; mainly for use against LTTE rebels
-429,Sri Lanka,2.0, FT-5/JJ-5, Trainer aircraft,1990.0, 1991,2.0,
-430,Sri Lanka,25.0, Type-59, Tank,1990.0, 1991,25.0,
-431,Sri Lanka,12.0, Type-59-1 130mm, Towed gun,1990.0, 1991,12.0,
-432,Sri Lanka,20.0, Type-83 122mm, Towed gun,1990.0, 1991,20.0,
-433,Sri Lanka,3.0, Y-12, Light transport ac,1990.0, 1991,3.0, Incl for use as bomber aircraft against LTTE rebels
-434,Sri Lanka,3.0, Type-062/Shanghai, Patrol craft,1991.0, 1991-1992,3.0, Modified Shanghai-2 version; Sri Lankan designation Rana
-435,Sri Lanka,20.0, Type-85, APC,1991.0, 1991-1992,20.0,
-436,Sri Lanka,20.0, Type-85 IFV, IFV,1991.0, 1991,20.0,
-437,Sri Lanka,10.0, WZ-551/Type-90, IFV,1991.0, 1991,10.0,
-438,Sri Lanka,1.0, Y-8, Transport aircraft,1992.0, 1994,1.0, Possibly second-hand; possibly incl for use as combat aircraft against LTTE rebels
-439,Sri Lanka,1.0, Type-037-1/Haiqing, Patrol craft,1994.0, 1996,1.0, Sri Lankese designation Parakramabahu
-440,Sri Lanka,3.0, Type-062-1/Haizhui, Patrol craft,1994.0, 1996,3.0, Sri Lankese designation Ranajaya
-441,Sri Lanka,1.0, Type-074/Yuhai, Landing ship,1994.0, 1995,1.0, Sri Lankan designation Shakthi
-442,Sri Lanka,3.0, Type-062/Shanghai, Patrol craft,1996.0, 2000,3.0, Shanghai-2 version; Sri Lankan designation Rana
-443,Sri Lanka,2.0, Type-062-1G/Lushun, Patrol craft,1997.0, 1998,2.0, Sri Lankese designation Prathpa
-444,Sri Lanka,36.0, D-20 152mm, Towed gun,1998.0, 1999,36.0, Type-66 version
-445,Sri Lanka,10.0, BT-6/PT-6, Trainer aircraft,2000.0, 2000,10.0, BT-6A version
-446,Sri Lanka,6.0, K-8 Karakorum-8, Trainer/combat ac,2000.0, 2001,6.0,
-447,Sri Lanka,120.0, WZ-551, APC,2001.0, 2002-2007,120.0,
-448,Sri Lanka,3.0, K-8 Karakorum-8, Trainer/combat ac,2004.0, 2005,3.0,
-449,Sri Lanka,3.0, Type-408C, Air search radar,2004.0, 2004-2006,3.0, Designation uncertain; incl for civilian air traffic control
-450,Sri Lanka,70.0, WZ-551/Type-92, IFV,2005.0, 2006-2007,70.0,
-451,Sri Lanka,4.0, F-7MG, Fighter aircraft,2007.0, 2008,4.0, Possibly aid; F-7GS version; no. may be 6
-452,Sri Lanka,1.0, JY-11, Air search radar,2007.0, 2007,1.0, Mainly for use against LTTE rebels
-453,Sri Lanka,25.0, PL-5E, SRAAM,2007.0, 2008,25.0, For F-7GS combat aircraft
-454,Sri Lanka,40.0, Type-89/ZSD-89, APC,2007.0, 2007-2008,40.0, Incl command post version
-455,Sri Lanka,2.0, Y-12, Light transport ac,2009.0, 2010,2.0,
-457,Sudan,18.0, D-30 122mm, Towed gun,1991.0, 1992,18.0, Designation uncertain
-458,Sudan,2.0, Y-8, Transport aircraft,1991.0, 1991,2.0, Y-8D version
-459,Sudan,6.0, F-7A/J-7, Fighter aircraft,1995.0, 1997,6.0, F-7B version; no. could be 7; status uncertain
-460,Sudan,25.0, Type-85-IIM, Tank,2001.0, 2002-2006,25.0, Possibly assembled in Sudan; Sudanese designation Al-Bashier
-461,Sudan,12.0, A-5C/Fantan, FGA aircraft,2002.0, 2003,12.0, No. could be up to 20
-462,Sudan,50.0, WZ-551/Type-92, IFV,2003.0, 2006-2015,50.0, Assembled of produced in Sudan as Shateef-2
-463,Sudan,9.0, BT-6/PT-6, Trainer aircraft,2004.0, 2005,9.0, BT-6A version
-464,Sudan,12.0, K-8 Karakorum-8, Trainer/combat ac,2004.0, 2005-2008,12.0, Incl for combat role
-465,Sudan,50.0, FN-6, Portable SAM,2005.0, 2006,50.0,
-466,Sudan,50.0, Type-59D, Tank,2008.0, 2010-2015,50.0, Sudanese Type-59 rebuilt to Type-59D; assembled in Sudan
-467,Sudan,450.0, Red Arrow-8, Anti-tank missile,2009.0, 2009-2012,450.0,
-468,Sudan,6.0, WS-1 302mm, Self-propelled MRL,2009.0, 2014,6.0,
-469,Sudan,2.0, FB-6, Mobile SAM system,2015.0, 2016,2.0,
-470,Sudan,100.0, FN-6, Portable SAM,2015.0, 2016,100.0,
-471,Sudan,6.0, FTC-2000, Trainer/combat ac,2015.0, 2017,3.0,
-472,Syria,5.0, JY-27, Air search radar,2008.0, 2009-2010,5.0,
-473,Syria,1.0, JYL-1, Air search radar,2008.0, 2009,1.0,
-474,Syria,4.0, Type-120, Air search radar,2008.0, 2009,4.0,
-475,Syria,500.0, Red Arrow-73, Anti-tank missile,2013.0, 2014,500.0, Red Arrow-73D version
-476,Tanzania,2.0, Type-062/Shanghai, Patrol craft,1991.0, 1992,2.0, Shanghai-2 version
-477,Tanzania,2.0, Y-12, Light transport ac,1994.0, 1994,2.0,
-478,Tanzania,2.0, Y-8, Transport aircraft,2002.0, 2003,2.0, Y-8F-200 version
-479,Tanzania,4.0, ZFB-05, APC,2005.0, 2006-2007,4.0,
-480,Tanzania,30.0, Type-59G, Tank,2007.0, 2011-2013,30.0, Tanzanian Type-59 rebuilt to Type-59G
-481,Tanzania,14.0, F-7MG, Fighter aircraft,2008.0, 2009-2012,14.0, F-7TN version; incl 2 FT-7TN version
-482,Tanzania,6.0, K-8 Karakorum-8, Trainer/combat ac,2010.0, 2011-2012,6.0,
-483,Tanzania,10.0, WZ-551, APC,2010.0, 2011-2012,10.0,
-484,Tanzania,12.0, A-100 300mm, Self-propelled MRL,2012.0, 2013,12.0,
-485,Tanzania,1.0, FB-6, Mobile SAM system,2012.0, 2013,1.0,
-486,Tanzania,50.0, FN-6, Portable SAM,2012.0, 2013,50.0, For FB-6 SAM system
-487,Tanzania,1.0, YLC-18, Air search radar,2012.0, 2013,1.0, Designation uncertain
-488,Tanzania,10.0, PLL-05 120mm, Self-propelled mortar,2013.0, 2014,10.0,
-489,Tanzania,10.0, Type-63A, Light tank,2013.0, 2014,10.0,
-490,Tanzania,5.0, Type-84, ABL,2013.0, 2014,5.0, Type-84A version
-491,Tanzania,2.0, Type-037-1/Haiqing, Patrol craft,2014.0, 2015,2.0, Probably second-hand
-492,Thailand,5.0, W-653/Type-653, ARV,1987.0, 1989-1990,5.0,
-493,Thailand,50.0, C-801, Anti-ship missile,1988.0, 1991,50.0, $40 m deal; for Jianghu Chao Phraya frigates
-494,Thailand,4.0, Type-05/Jianghu-1, Frigate,1988.0, 1991-1992,4.0, Part of $272 m deal; Thai designation Chao Phraya
-495,Thailand,25.0, Type-311, Fire control radar,1991.0, 1991-1992,25.0, For use with 122 Type-74 37mm and possibly 24 Type-59 57mm AA guns
-496,Thailand,122.0, Type-74 37mm, AA gun,1991.0, 1991-1992,122.0,
-497,Thailand,1.0, Similan, Support ship,1993.0, 1996,1.0,
-498,Thailand,28.0, C-801, Anti-ship missile,1999.0, 2000,28.0, Designation uncertain
-499,Thailand,2.0, Pattani, OPV/frigate,2002.0, 2005-2006,2.0, EUR75-80 m $66-95 m deal
-500,Thailand,60.0, C-802/CSS-N-8, Anti-ship missile,2007.0, 2009-2014,60.0, For modernized Chao Phraya frigates
-501,Thailand,4.0, SR-5, Self-propelled MRL,2012.0, 2013,4.0, SR-4 version; Thai designation PR-50
-503,Thailand,2.0, RA-3, Arty locating radar,2015.0, 2016,2.0,
-504,Thailand,1.0, KS-1A, SAM system,2016.0, 2016,1.0, KS-1C version
-505,Thailand,50.0, KS-1A, SAM,2016.0, 2016,50.0, KS-1C version
-506,Thailand,28.0, VT-4, Tank,2016.0, 2017,28.0, THB4.9 b $140 m deal
-508,Thailand,1.0, S26T, Submarine,2017.0,,, THB13.5 b $390 m deal; delivery planned 2023
-509,Thailand,34.0, Type-07P/VN-1, IFV,2017.0,,, THB2.3 b $58 m deal; delivery planned by 2020
-510,Thailand,10.0, VT-4, Tank,2017.0,,, THB2 b $58 m deal
-512,Timor-Leste,2.0, Type-062/Shanghai, Patrol craft,2008.0, 2010,2.0, $28 m deal; Timor-Leste designation Jaco
-513,Trinidad and Tobago,1.0, Type-718/Haijing, OPV,2015.0, 2015,1.0, Second-hand; Trinidad designation Nelson
-514,Tunisia,3.0, Type-062-1/Haizhui, Patrol craft,1993.0, 1994,3.0, Modified Haizhui or Huludao; Tunesian designation Utique
-515,Turkmenistan,10.0, AR-1, ASM,2015.0, 2016,10.0, For CH-3 UCAV/UAV
-516,Turkmenistan,2.0, CH-3, UAV/UCAV,2015.0, 2016,2.0,
-517,Turkmenistan,10.0, CM-502KG, ASM,2015.0, 2016,10.0, For WJ-600 UCAV/UAV
-518,Turkmenistan,1.0, FM-90, SAM system,2015.0, 2016,1.0,
-519,Turkmenistan,40.0, FM-90, SAM,2015.0, 2016,40.0,
-520,Turkmenistan,1.0, HQ-9, SAM system,2015.0, 2016,1.0,
-521,Turkmenistan,75.0, HQ-9, SAM,2015.0, 2016,75.0,
-522,Turkmenistan,1.0, KS-1A, SAM system,2015.0, 2016,1.0, Probably KS-1C version
-523,Turkmenistan,50.0, KS-1A, SAM,2015.0, 2016,50.0, Probably KS-1C version
-524,Turkmenistan,2.0, WJ-600, UAV/UCAV,2015.0, 2016,2.0,
-525,Turkmenistan,1.0, YLC-18, Air search radar,2015.0, 2016,1.0,
-526,Turkmenistan,1.0, YLC-2, Air search radar,2015.0, 2016,1.0, YLC-2V version
-527,UAE,20.0, Type-59-1 130mm, Towed gun,1990.0, 1993-1994,20.0,
-528,UAE,5.0, Wing Loong-1, UAV/UCAV,2011.0, 2013-2014,5.0,
-529,UAE,5.0, Wing Loong-2, UAV/UCAV,2017.0, 2017,5.0,
-530,Uganda,2.0, Y-12, Light transport ac,2007.0, 2008,2.0, Y-12-IV version
-531,Uganda,5.0, Type-85-IIM, Tank,2008.0, 2008,5.0,
-532,Unknown recipients,5.0, CH-1, UAV,2003.0, 2004,5.0, For 'South Asian country'
-533,Venezuela,3.0, JYL-1, Air search radar,2005.0, 2006-2007,3.0, Part of $150 m programme for military-civilian air-surveillance system
-534,Venezuela,7.0, JYL-1, Air search radar,2006.0, 2008-2009,7.0,
-535,Venezuela,3.0, JY-11, Air search radar,2008.0, 2010-2011,3.0, JY-11B version
-536,Venezuela,18.0, K-8 Karakorum-8, Trainer/combat ac,2008.0, 2010,18.0,
-537,Venezuela,100.0, PL-5E, SRAAM,2008.0, 2010,100.0, For K-8 trainer/combat aircraft
-538,Venezuela,8.0, Y-8, Transport aircraft,2011.0, 2012-2014,8.0, Y-8F-200W version
-539,Venezuela,250.0, Red Arrow-73, Anti-tank missile,2012.0, 2015,250.0, Red Arrow-73D version for VN-18 IFV
-540,Venezuela,18.0, SM-4 81mm, Self-propelled mortar,2012.0, 2014-2015,18.0, Part of $500 m deal
-541,Venezuela,18.0, SR-5, Self-propelled MRL,2012.0, 2014-2015,18.0, Part of $500 m deal
-542,Venezuela,40.0, Type-07P/VN-1, IFV,2012.0, 2014-2015,40.0, Part of $500 m deal; VN-1 version
-543,Venezuela,121.0, VN-4, APV/APC,2012.0, 2013-2015,121.0, For National Guard
-544,Venezuela,25.0, ZBD-05/VN-18, IFV,2012.0, 2015,25.0, Part of $500 m deal; VN-18 version
-545,Venezuela,25.0, ZTD-05/VN-16, Light tank,2012.0, 2015,25.0, Part of $500 m deal; VN-16 version
-546,Venezuela,9.0, K-8 Karakorum-8, Trainer/combat ac,2014.0, 2016,9.0, K-8W or K-8VV version
-548,Yemen,25.0, C-801, Anti-ship missile,1992.0, 1995,25.0, For Huangfen FAC
-549,Yemen,3.0, Type-021/Huangfen, FAC,1992.0, 1995,3.0, Delivery delayed 2 years for financial reasons
-550,Zambia,3.0, Y-12, Light transport ac,1994.0, 1996,3.0, Y-12 II version; no. could be 5
-551,Zambia,8.0, K-8 Karakorum-8, Trainer/combat ac,1998.0, 2000,8.0,
-552,Zambia,2.0, MA60, Transport aircraft,2005.0, 2006,2.0,
-553,Zambia,5.0, Y-12, Light transport ac,2006.0, 2006-2007,5.0, Y-12-IV version
-554,Zambia,5.0, WZ-551, APC,2007.0, 2008,5.0, WZ-551B version
-555,Zambia,8.0, K-8 Karakorum-8, Trainer/combat ac,2010.0, 2012,8.0,
-556,Zambia,7.0, AS365/AS565 Panther, Helicopter,2011.0, 2012,7.0, $105 m deal
-557,Zambia,6.0, L-15, Trainer/combat ac,2014.0, 2016-2017,6.0, L-15AFT version
-558,Zambia,50.0, LS-6-500, Guided bomb,2014.0, 2016-2017,50.0, For L-15 combat/trainer aircraft
-559,Zambia,40.0, PL-5E, SRAAM,2014.0, 2016-2017,40.0,
-560,Zambia,50.0, YJ-9E, ASM,2014.0, 2016-2017,50.0, For L-15 combat/trainer aircraft
-561,Zimbabwe,2.0, F-7A/J-7, Fighter aircraft,1990.0, 1991,2.0, FT-7BZ version
-562,Zimbabwe,10.0, Type-85, APC,2004.0, 2004,10.0,
-563,Zimbabwe,10.0, Type-85 IFV, IFV,2004.0, 2004,10.0,
-564,Zimbabwe,5.0, Type-89/ZSD-89, APC,2004.0, 2004,5.0, ARV version
-565,Zimbabwe,6.0, K-8 Karakorum-8, Trainer/combat ac,2005.0, 2005,6.0, Bought after UK refused to sell spare parts for Hawk trainer/combat aircraft in service in Zimbabwe
+Country,Number_Ordered,Weapon,Weapon_Type,Date_Ordered,Date_Delivered,Number_Delivered,Comments
+Somalia,12.0, Tiger, APV,2017.0, 2017,12.0, Possibly second-hand; probably aid
+Bangladesh,5.0, CSOC-50m, Patrol craft,2011.0, 2013,5.0,
+Bangladesh,2.0, LPC-1, Corvette,2014.0, 2017,2.0, Bangladeshi designation Durjoy
+Egypt,400.0, Type-59-1 130mm, Towed gun,1985.0, 1986-1995,400.0, Type-59-1M version; possibly illegally copied and produced in Egypt
+Egypt,80.0, K-8 Karakorum-8, Trainer/combat ac,1999.0, 2001-2005,80.0, $345 m deal; K-8E version; 70 assembled from kits in Egypt
+Egypt,18.0, ASN-209, UAV,2010.0, 2012-2014,18.0,
+Iran,250.0, Type-63 107mm, Towed MRL,1985.0, 1986-1990,250.0,
+Iran,200.0, M-7/CSS-8, SSM,1989.0, 1990-1994,200.0, Iranian designation Tondar-69; probably incl assembly/production in Iran
+Iran,380.0, C-802/CSS-N-8, Anti-ship missile,1992.0, 1994-2012,380.0, Incl for Hudong Thondor. new-produced and modernized Combattante-2 Kaman FAC and coast defence systems; possibly incl air-launched version; Iranian designation Tondar or Noor; status since 2010 uncertain due to UN arms embargo
+Iran,1100.0, QW-1 Vanguard, Portable SAM,1993.0, 1996-2006,1100.0, Iranian designation Misagh-1
+Iran,150.0, Type-86, APC,1996.0, 1997-2011,150.0, Iranian designation Boraq; incl IFV. anti-tank. mortar-carrier and command versions
+Iran,260.0, FL-6, Anti-ship missile,1998.0, 1999-2015,260.0, Developed or copied by China from Italian Sea Killer Marte-2 anti-ship missile supplied by Iran to China; Iranian designation Fajr-e Darya; incl for SH-3D helicopters; status since 2010 uncertain due to UN arms embargo
+Iran,150.0, TL-10/FL-8, Anti-ship missile,2002.0, 2004-2015,150.0, TL-10A and possibly TL-10B version; status since 2010 uncertain due to UN arms embargo
+Iran,50.0, C-704, Anti-ship missile,2003.0, 2010-2011,50.0, Developed for Iran; Iranian designation Nasr-1
+Iran,50.0, C-801, Anti-ship missile,2004.0, 2006-2015,50.0, Iranian designation Kosar and/or Sagheb; incl submarine-launched version; status since 2010 uncertain due to UN arms embargo
+Iran,650.0, QW-11, Portable SAM,2005.0, 2006-2015,650.0, Iranian designation Misagh-2; status since 2010 uncertain due to UN arms embargo
+Malaysia,4.0, LMS-68, OPV,2017.0,,, Incl 2 produced in Malaysia; delivery planned 2019-2021
+Myanmar,2.0, Anawrahta, Corvette,1997.0, 2001-2003,2.0,
+Myanmar,1.0, Aung Zeya, Frigate,2006.0, 2011,1.0,
+North Korea,4000.0, Type-63 107mm, Towed MRL,1963.0, 1964-1990,4000.0,
+North Korea,500.0, YW-531/Type-63, APC,1972.0, 1972-1992,500.0, North Korean designation VTT-323
+North Korea,23.0, Type-033/Romeo, Type-6633; Project-633,1973.0, 1973-1995,23.0, 16 assembled/produced in North Korea
+North Korea,1000.0, HN-5A, Portable SAM,1981.0, 1985-1994,1000.0, Incl HN-5 version
+Pakistan,6.0, K-8 Karakorum-8, Trainer/combat ac,1987.0, 1994,6.0, Incl some components produced in Pakistan and some assembled in Pakistan
+Pakistan,1000.0, HN-5A, Portable SAM,1988.0, 1989-1998,1000.0, Pakistani designation Anza-1
+Pakistan,55.0, M-11/CSS-7, SSM,1988.0, 1992-1994,55.0, Incl assembly in Pakistan
+Pakistan,268.0, Type-85-IIM, Tank,1990.0, 1992-1996,268.0, Type-85-IIAP version; incl assembly from kits and production in Pakistan
+Pakistan,65.0, W-653/Type-653, ARV,1994.0, 1995-2000,65.0, Incl assembly/production in Pakistan; Pakistani designation ARV-W653
+Pakistan,530.0, Type-90-2M/MBT-2000, Tank,1998.0, 2001-2017,325.0, Al-Khalid and Al-Khalid-I or Al-Khalid-1 versions
+Pakistan,50.0, JF-17 Thunder/FC-1, FGA aircraft,1999.0, 2007-2013,50.0, JF-17 Block-1 version; developed for Pakistan; incl production of components and assembly in Pakistan; incl 8 mainly for testing and first 42 production version ordered 2009 for $800 m
+Pakistan,6.0, K-8 Karakorum-8, Trainer/combat ac,2001.0, 2003,6.0, Incl production of components and assembly in Pakistan
+Pakistan,4.0, F-22, Frigate,2005.0, 2009-2013,4.0, $500-750 m deal; F-22P version; incl 1 produced in Pakistan; Pakistani designation Zulfiquar
+Pakistan,27.0, K-8 Karakorum-8, Trainer/combat ac,2005.0, 2007-2010,27.0, K-8P version
+Pakistan,48.0, A-100 300mm, Self-propelled MRL,2008.0, 2011-2013,48.0,
+Pakistan,20.0, CH-3, UAV/UCAV,2009.0, 2013-2016,20.0,
+Pakistan,2.0, Azmat, Corvette,2010.0, 2012-2014,2.0, Incl 1 produced in Pakistan
+Pakistan,50.0, JF-17 Thunder/FC-1, FGA aircraft,2011.0, 2015-2017,48.0, JF-17 Block-2 version
+Pakistan,50.0, JF-17 Thunder/FC-1, FGA aircraft,2012.0,,, JF-17 Block-3 version; delivery possibly from 2019
+Pakistan,2.0, Azmat, Corvette,2013.0, 2017,1.0, Delivery planned 2017-218
+Pakistan,2.0, CSTC-1500, OPV,2015.0,,, Designation uncertain reported as '1500t patrol vessel' from Chinese company CSTC; for coast guard; incl 1 produced in Pakistan; Pakistani designation Hingol; delivery probably planned 2018-2019/2020
+Pakistan,4.0, CSTC-600, OPV,2015.0, 2016-2017,3.0, Designation uncertain reported as '600t patrol vessel' from Chinese company CSTC; for coast guard; incl 2 produced in Pakistan; Pakistani designation Hingol; delivery 2016-2019/2020
+Pakistan,8.0, Type-041/Yuan, Submarine,2015.0,,, Probably S-20 version; incl 4 produced in Pakistan; delivery 2022-2028
+Romania,6.0, Type-025/Huchuan, FAC,1987.0, 1988-1990,6.0,
+Sudan,460.0, Type-63 107mm, Towed MRL,2000.0, 2001-2014,460.0, Incl production in Sudan as TAKA-1
+Thailand,2.0, Naresuan, Frigate,1989.0, 1994-1995,2.0, Weapons and electronics fitted in Thailand
+Thailand,18.0, WS-1 302mm, Self-propelled MRL,2008.0, 2011-2017,11.0, Thai designation DTi-1
+Turkey,24.0, WS-1 302mm, Self-propelled MRL,1997.0, 1998-2000,24.0, No. may be up to 144; 5 and rockets assembled/produced in Turkey
+Turkey,200.0, B-611, SSM,1999.0, 2002-2012,200.0, Turkish designation Yildirim or Project-J or J-600T; possibly incl B-611M version
+Albania,1.0, HY-2 CDS, Coast defence system,1994.0, 1995,1.0,
+Albania,15.0, HY-2/SY-1A/CSS-N-2, Anti-ship missile,1994.0, 1995,15.0,
+Algeria,3.0, Type-363, Air search radar,1983.0, 1988-2002,3.0, For 3 Djebel Chenoua FAC produced in Algeria
+Algeria,1.0, Mourafek, Support ship,1988.0, 1990,1.0, For coast guard
+Algeria,7.0, Chui-E, Patrol craft,1989.0, 1990-1991,7.0, Algerian designation El Mouderrib; for Coast Guard
+Algeria,25.0, C-802/CSS-N-8, Anti-ship missile,1999.0, 2000-2002,25.0, For Djebel Chenoua FAC
+Algeria,3.0, Type-347G, Fire control radar,2000.0, 2000-2002,3.0, For 3 Djebel Chenoua FAC produced in Algeria
+Algeria,1.0, Daxin, Training ship,2004.0, 2006,1.0, Algerian designation Soummam
+Algeria,18.0, WA-021/Type-88 155mm, Towed gun,2007.0, 2010,18.0,
+Algeria,3.0, C-28A, Frigate,2012.0, 2015-2016,3.0, C-28A version
+Algeria,50.0, C-802/CSS-N-8, Anti-ship missile,2012.0, 2015-2016,50.0, For C-28A frigates
+Algeria,50.0, FM-90, SAM,2012.0, 2015-2016,50.0, For C-28A frigates
+Algeria,50.0, PLZ-45 155mm, Self-propelled gun,2013.0, 2014,50.0,
+Algeria,18.0, SR-5, Self-propelled MRL,2016.0, 2017,18.0,
+Angola,45.0, BF6, Diesel engine,2013.0, 2015,45.0, For 45 Casspir APC from South Africa; designation uncertain reported as 'Chinese' engine
+Angola,10.0, WMA-301 Assaulter, AFSV,2015.0, 2016,10.0,
+Angola,5.0, WZ-551, APC,2015.0, 2016,5.0,
+Argentina,4.0, WZ-551, APC,2008.0, 2010,4.0, $2.6 m deal; WZ-551B1 version; for Argentinian UN forces
+Armenia,4.0, WM-80 273mm, Self-propelled MRL,1999.0, 1999,4.0,
+Bahamas,2.0, Tiger, APV,2016.0, 2017,2.0, Part of $1.2 m aid
+Bahrain,4.0, SR-5, Self-propelled MRL,2015.0, 2016,4.0,
+Bangladesh,12.0, A-5C/Fantan, FGA aircraft,1989.0, 1989-1990,12.0, No. could be 20
+Bangladesh,20.0, F-7M Airguard, Fighter aircraft,1989.0, 1989-1990,20.0, F-7MB version; incl 4 FT-7B
+Bangladesh,250.0, PL-2, SRAAM,1989.0, 1989-1990,250.0, For A-5C and F-7M combat aircraft
+Bangladesh,50.0, Type-85, APC,1989.0, 1989-1990,50.0,
+Bangladesh,50.0, HN-5A, Portable SAM,1990.0, 1991-1992,50.0,
+Bangladesh,42.0, M-30 122mm, Towed gun,1991.0, 1992,42.0, Designation uncertain; possibly Type-54-1 version
+Bangladesh,50.0, Type-69, Tank,1991.0, 1991,50.0, Type-69-I and Type-69-II version
+Bangladesh,10.0, HY-1/SY-1/CSS-N-1, Anti-ship missile,1992.0, 1992,10.0, For Huangfen Durdharsha FAC
+Bangladesh,5.0, HY-2/SY-1A/CSS-N-2, Anti-ship missile,1992.0, 1992,5.0, For Hegu Durbar FAC; SY-1A CSS-N-2 version
+Bangladesh,1.0, Type-021/Huangfen, FAC,1992.0, 1992,1.0, Bangladeshi designation Durdharsha
+Bangladesh,1.0, Type-024/Hegu, FAC,1992.0, 1992,1.0, Bangladeshi designation Burbar
+Bangladesh,1.0, Project-254/T-43, Minesweeper,1993.0, 1994,1.0, Bangladeshi designation Sagar
+Bangladesh,5.0, W-653/Type-653, ARV,1993.0, 1993,5.0,
+Bangladesh,10.0, BT-6/PT-6, Trainer aircraft,1995.0, 1996,10.0,
+Bangladesh,1.0, Type-062-1/Haizhui, Patrol craft,1995.0, 1995,1.0, Shanghai-3 version; Bangladeshi designation Barkat
+Bangladesh,18.0, Type-59-1 130mm, Towed gun,1995.0, 1996,18.0, Designation uncertain; possibly Second-hand
+Bangladesh,4.0, F-7M Airguard, Fighter aircraft,1996.0, 1999-2000,4.0, FT-7BG version
+Bangladesh,21.0, HN-5A, Portable SAM,2000.0, 2001,21.0, HN-5JA1 version
+Bangladesh,114.0, Red Arrow-8, Anti-tank missile,2000.0, 2001,114.0,
+Bangladesh,20.0, Type-83 122mm, Towed gun,2003.0, 2004,20.0,
+Bangladesh,1.0, Crotale, SAM system,2004.0, 2007,1.0, FM-90 version; for DW-2000 frigate
+Bangladesh,250.0, QW-2, Portable SAM,2004.0, 2007,250.0,
+Bangladesh,10.0, C-802/CSS-N-8, Anti-ship missile,2005.0, 2008,10.0, For 1 Jianghu Type-053 or Type-510 frigate
+Bangladesh,54.0, D-30 122mm, Towed gun,2005.0, 2006-2007,54.0, Type-96 version
+Bangladesh,100.0, PL-7, SRAAM,2005.0, 2005-2007,100.0, For F-7MG combat aircraft
+Bangladesh,14.0, PL-9, SRAAM,2005.0, 2006-2008,14.0, For F-7MG combat aircraft
+Bangladesh,20.0, R-440 Crotale, SAM,2005.0, 2007,20.0, FM-90 version; for DW-2000 Bangabandhu frigate
+Bangladesh,16.0, F-7MG, Fighter aircraft,2006.0, 2006,16.0, $44-118 m deal; F-7BG version
+Bangladesh,1.0, F-7M Airguard, Fighter aircraft,2007.0, 2007,1.0, F-7AM or FT-7A version; possibly loan
+Bangladesh,174.0, Type-59G, Tank,2009.0, 2014-2017,120.0, Bangladeshi Type-59 tanks rebuilt to Type-59G in Bangladesh with kits from China
+Bangladesh,58.0, Type-69-IIG, Tank,2009.0, 2010-2013,58.0, Bangladeshi Type-69-II tanks rebuilt to Type-69-IIG in Bangladesh with kits from China
+Bangladesh,2.0, FM-90, SAM system,2010.0, 2011,2.0,
+Bangladesh,75.0, FM-90, SAM,2010.0, 2011,75.0,
+Bangladesh,16.0, C-704, Anti-ship missile,2011.0, 2012-2013,16.0, For LPC-1 corvettes
+Bangladesh,16.0, F-7MG, Fighter aircraft,2011.0, 2012-2013,16.0, F-7BGI version
+Bangladesh,2.0, LPC-1, Corvette,2011.0, 2013,2.0, Bangladeshi designation Durjoy
+Bangladesh,3.0, Type-654, ARV,2011.0, 2012,3.0,
+Bangladesh,44.0, Type-90-2M/MBT-2000, Tank,2011.0, 2012-2013,44.0, BDT12 b $160 m deal
+Bangladesh,30.0, C-802/CSS-N-8, Anti-ship missile,2012.0, 2014,30.0, For Type-053 or Type-510 Jianghu frigates
+Bangladesh,15.0, C-802/CSS-N-8, Anti-ship missile,2012.0, 2015,15.0, For Type-056 Shadhinata frigates
+Bangladesh,50.0, HHQ-10, SAM,2012.0, 2015,50.0, For Type-056 Shadhinata frigates
+Bangladesh,2.0, Type-053H2/Jianghu-3, Frigate,2012.0, 2014,2.0, Second-hand; Bangladeshi designation Abu Bakar
+Bangladesh,2.0, Type-056, Frigate,2012.0, 2015,2.0, Bangladeshi designation Shadhinata
+Bangladesh,9.0, K-8 Karakorum-8, Trainer/combat ac,2013.0, 2014-2015,9.0, K-8W version
+Bangladesh,2.0, Type-035G/Ming, Submarine,2013.0, 2016,2.0, Second-hand but modernized before delivery; BDT16 b $203 m deal; Bangladeshi designation Nabajatra
+Bangladesh,18.0, WS-22 122mm, Self-propelled MRL,2013.0, 2014-2015,18.0,
+Bangladesh,60.0, Yu-4 533mm, AS torpedo,2013.0, 2016,60.0, Probably second-hand; for Type-035G submarines; designation uncertain
+Bangladesh,11.0, BT-6/PT-6, Trainer aircraft,2015.0, 2016-2017,11.0,
+Bangladesh,15.0, C-802/CSS-N-8, Anti-ship missile,2015.0,,, For Type-056 Shadhinata frigates
+Bangladesh,2.0, FM-90, SAM system,2015.0, 2016,2.0,
+Bangladesh,75.0, FM-90, SAM,2015.0, 2016,75.0,
+Bangladesh,100.0, FN-6, Portable SAM,2015.0,,, FN-16 version; possibly incl assembly in Banghladesh
+Bangladesh,50.0, HHQ-10, SAM,2015.0,,, For Type-056 Shadhinata frigates
+Bangladesh,2.0, Type-056, Frigate,2015.0,,, Bangladeshi designation Shadhinata
+Belarus,6.0, A-200 301mm, MRL,2013.0, 2016,6.0, For B-200 Polonez self-propelled MRL produced in Belarus
+Belarus,10.0, VN-3, APV,2016.0, 2017,5.0, Aid; delivery 2017-2018
+Benin,2.0, ZFB-05, APC,2008.0, 2010,2.0,
+Benin,10.0, BF6, Diesel engine,2012.0, 2013,10.0, For 10 Casspir APC from South Africa; designation uncertain reported as Chinese engine
+Bolivia,18.0, D-20 152mm, Towed gun,1992.0, 1992,18.0, Designation uncertain; possibly Type-66 version
+Bolivia,36.0, M-30 122mm, Towed gun,1992.0, 1992-1993,36.0, Type-54-1 version; probably Second-hand
+Bolivia,30.0, HN-5A, Portable SAM,1995.0, 1995,30.0,
+Bolivia,500.0, Red Arrow-8, Anti-tank missile,2003.0, 2003,500.0,
+Bolivia,6.0, K-8 Karakorum-8, Trainer/combat ac,2009.0, 2011,6.0, $58 m deal; K-8WB version
+Bolivia,6.0, AS365/AS565 Panther, Helicopter,2012.0, 2014,6.0, $108-113 m deal; H-425 Z-9 version
+Bolivia,27.0, Tiger, APV,2015.0, 2016,27.0, Aid
+Bosnia-Herzegovina,300.0, Red Arrow-8, Anti-tank missile,1993.0, 1993-1994,300.0, Incl for WZ-91 tank-destroyer; possibly delivered via Middle Eastern country
+Bosnia-Herzegovina,10.0, WZ-91/Type-92, Tank destroyer,1993.0, 1993-1994,10.0, Status uncertain; possibly delivered via Middle Eastern country
+Burundi,15.0, WZ-551, APC,2012.0, 2012,15.0,
+Cambodia,2.0, Y-12, Light transport ac,1994.0, 1994,2.0,
+Cambodia,4.0, Type-062-1G/Lushun, Patrol craft,2007.0, 2007,4.0, Part of $60 m deal financed by Chinese loan; designation uncertain
+Cambodia,50.0, FN-6, Portable SAM,2008.0, 2009,50.0, Possibly FN-16 version
+Cambodia,12.0, AS365/AS565 Panther, Helicopter,2011.0, 2013,12.0, $195 m deal financed by Chinese loan; incl 4 armed version
+Cambodia,2.0, MA60, Transport aircraft,2012.0, 2012,2.0,
+Cameroon,2.0, MA60, Transport aircraft,2011.0, 2013,2.0,
+Cameroon,50.0, FN-6, Portable SAM,2012.0, 2013,50.0, FN-16 version
+Cameroon,12.0, GDF 35mm, AA gun,2012.0, 2013,12.0, Type-90 PG-99 version
+Cameroon,2.0, Type-07, APC,2012.0, 2013,2.0,
+Cameroon,18.0, Type-07P/VN-1, IFV,2012.0, 2012-2013,18.0,
+Cameroon,15.0, Type-825, Fire control radar,2012.0, 2013,15.0, For use with GDF anti-aircraft guns
+Cameroon,12.0, WMA-301 Assaulter, AFSV,2012.0, 2014,12.0,
+Cameroon,2.0, P-108, Patrol craft,2013.0, 2014,2.0,
+Cameroon,50.0, Red Arrow-8, Anti-tank missile,2013.0, 2014,50.0, For Z-9 combat helicopters
+Cameroon,4.0, Z-9WZ, Combat helicopter,2013.0, 2014,4.0, Z-9WE version
+Chad,6.0, Type-81 122mm, Self-propelled MRL,2006.0, 2007,6.0,
+Chad,10.0, ZFB-05, APC,2006.0, 2007,10.0,
+Chad,12.0, WMA-301 Assaulter, AFSV,2007.0, 2010,12.0,
+Chad,10.0, WZ-523, APC,2007.0, 2008,10.0,
+Chad,30.0, WMA-301 Assaulter, AFSV,2012.0, 2013,30.0, Designation uncertain reported as 'battle tank'
+Congo,5.0, ZFB-05, APC,2005.0, 2006-2007,5.0,
+Congo,9.0, ZFB-05, APC,2009.0, 2009,9.0, Designation uncertain
+Cote d'Ivoire,1.0, Predator, Patrol craft,2017.0, 2017,1.0, CNY30 m $4.4 m aid
+Djibouti,1.0, MA60, Transport aircraft,2013.0, 2014,1.0, Incl for support of Djibouti peacekeeping troops in Somalia and VIP transport
+Djibouti,1.0, WMA-301 Assaulter, AFSV,2014.0, 2015,1.0,
+Djibouti,2.0, Y-12, Light transport ac,2015.0, 2016,2.0, Y-12E version
+Ecuador,72.0, HN-5A, Portable SAM,1992.0, 1994,72.0, Deal incl also 30 launchers
+Ecuador,50.0, Red Arrow-8, Anti-tank missile,1993.0, 1994,50.0,
+Ecuador,2.0, BT-6/PT-6, Trainer aircraft,2005.0, 2006,2.0, Aid; BT-6/CJ-6 version
+Ecuador,1.0, YLC-18, Air search radar,2009.0, 2010,1.0, Probably second-hand; loan as interim until delivery and integration of new YLC-2 and YLC-18 radars but new radar cancelled 2013
+Ecuador,1.0, YLC-2, Air search radar,2009.0, 2010,1.0, Probably second-hand; loan as interim until delivery and integration of new YLC-2 and YLC-18 radars but new radar cancelled 2013
+Egypt,1.0, JY-9, Air search radar,1992.0, 1993,1.0,
+Egypt,40.0, K-8 Karakorum-8, Trainer/combat ac,2004.0, 2007-2010,40.0, K-8E version; assembled from kits in Egypt
+Egypt,3.0, Wing Loong-1, UAV/UCAV,2016.0, 2017,3.0,
+Equatorial Guinea,1.0, Salamandra -, Landing ship,2008.0, 2009,1.0, Equatorial Guinean designation Osa; probably sold via Ukraine and possibly designed in Ukraine and produced in China; armament and radars fitted in Ukraine
+Eritrea,4.0, Y-12, Light transport ac,1994.0, 1994,4.0,
+Ethiopia,25.0, Type-63 107mm, Towed MRL,1998.0, 1999,25.0,
+Ethiopia,18.0, WA-021/Type-88 155mm, Towed gun,1998.0, 1999,18.0,
+Ethiopia,10.0, Type-89/ZSD-89, APC,2011.0, 2013,10.0,
+Ethiopia,20.0, WZ-551, APC,2011.0, 2012-2014,20.0,
+Ethiopia,1.0, HQ-64, SAM system,2012.0, 2013,1.0,
+Ethiopia,75.0, PL-11/FD-60, BVRAAM,2012.0, 2013,75.0, For HQ-64 SAM system
+Gabon,16.0, Type-63 107mm, Towed MRL,2004.0, 2004,16.0,
+Gabon,10.0, Type-63 130mm, Self-propelled MRL,2004.0, 2004,10.0, Designation uncertain reported as 130mm MRL
+Gabon,4.0, Type-90 122mm, Self-propelled MRL,2004.0, 2004,4.0, Designation uncertain reported as 122mm MRL
+Gabon,3.0, WZ-523, APC,2005.0, 2006,3.0,
+Gabon,3.0, ZFB-05, APC,2005.0, 2006,3.0,
+Ghana,6.0, D-30 122mm, Towed gun,2001.0, 2001,6.0, Supplier uncertain; possibly second-hand
+Ghana,3.0, Type-81 122mm, Self-propelled MRL,2004.0, 2004,3.0, Designation and supplier uncertain
+Ghana,4.0, K-8 Karakorum-8, Trainer/combat ac,2006.0, 2007,4.0, Partly paid with 1 second-hand Gulfstream-3 transport aircraft
+Ghana,4.0, Type-062-1G/Lushun, Patrol craft,2009.0, 2011,4.0, Designation uncertain
+Ghana,58.0, WZ-523, APC,2009.0, 2009-2010,58.0, Possibly incl other armoured vehicles
+Ghana,4.0, WZ-523, APC,2012.0, 2013,4.0, Ambulance version
+Ghana,24.0, WZ-523/Type-05, IFV,2012.0, 2013,24.0,
+Ghana,4.0, AS365/AS565 Panther, Helicopter,2014.0, 2015,4.0, Z-9 version
+Guyana,1.0, Y-12, Light transport ac,2001.0, 2002,1.0,
+Indonesia,3.0, C-802/CSS-N-8, Anti-ship missile,2005.0, 2008,3.0, Part of $11.2 m deal; for PB-57 Todak FAC; for evaluation
+Indonesia,130.0, QW-3, Portable SAM,2006.0, 2006-2007,130.0, Incl for Indonesian UN peacekeeping force in Lebanon
+Indonesia,200.0, QW-3, Portable SAM,2008.0, 2012-2013,200.0, For TD-2000B AD system
+Indonesia,2.0, SR-74, Air search radar,2008.0, 2012-2013,2.0, For use with TD-2000B AD systems
+Indonesia,8.0, TD-2000B, AD system,2008.0, 2012-2013,8.0, Part of $35 m deal
+Indonesia,15.0, QW-3, Portable SAM,2009.0, 2010,15.0,
+Indonesia,3.0, TH-5711 Smart Hunter, Air search radar,2009.0, 2011,3.0, For use with QW-3 SAM
+Indonesia,8.0, Type-347G, Fire control radar,2009.0, 2015-2016,8.0, Type-347G2 for 8 KCR-40 FAC produced in Indonesia
+Indonesia,8.0, Type-360 Seagull, Air search radar,2009.0, 2011-2014,8.0, For 8 KCR-40 FAC produced in Indonesia; designation and supplier uncertain
+Indonesia,100.0, C-705, Anti-ship missile,2011.0, 2014-2017,66.0, For KCR-40 and KCR-60 FAC; including assembly from kits or production in Indonesia from 2017/2018
+Indonesia,25.0, C-802/CSS-N-8, Anti-ship missile,2011.0, 2012-2016,25.0, For PB-57 Todak FAC and Van Speyk Ahmad Yani frigates
+Indonesia,8.0, NG-18 30mm, Naval gun,2013.0, 2013-2014,8.0, For 8 KCR-40 FAC produced in Indonesia
+Indonesia,1.0, Type-825 30mm, Naval gun/CIWS,2014.0, 2015,1.0, For modernization of 1 Pattimura Parchim corvette
+Indonesia,4.0, GDF 35mm, AA gun,2015.0, 2016,4.0, Type-90 version
+Indonesia,1.0, Skyguard, Fire control radar,2015.0, 2016,1.0, AF-902 version; for use with GDF Type-90 35mm anti-aircraft guns
+Indonesia,4.0, Type-90 122mm, Self-propelled MRL,2015.0, 2016,4.0, Type-90B version
+Indonesia,2.0, NG-18 30mm, Naval gun,2016.0, 2017,2.0, For modernization of 2 KCR-60 FAC
+Indonesia,1.0, Type-825 30mm, Naval gun/CIWS,2016.0, 2017,1.0, For modernization of 1 Pattimura Parchim corvette
+Indonesia,4.0, Wing Loong-1, UAV/UCAV,2017.0,,,
+Iran,100.0, HY-2/SY-1A/CSS-N-2, Anti-ship missile,1988.0, 1988-1994,100.0, HY-2 version; possibly incl C-601 CAS-1 air-launched version
+Iran,30.0, CSS-8 TEL, Mobile SSM launcher,1989.0, 1990-1994,30.0, Iranian designation Tondar-69
+Iran,8.0, HQ-2/CSA-1, SAM system,1989.0, 1989-1991,8.0,
+Iran,200.0, HQ-2/CSA-1, SAM,1989.0, 1989-1991,200.0,
+Iran,15.0, WA-021/Type-88 155mm, Towed gun,1990.0, 1991,15.0,
+Iran,25.0, F-7M Airguard, Fighter aircraft,1991.0, 1993,25.0, Probably F-7N version
+Iran,106.0, Type-59-1 130mm, Towed gun,1991.0, 1992,106.0,
+Iran,125.0, C-801, Anti-ship missile,1992.0, 1995-1998,125.0, Incl C-801A version for modernized Saam Alvand frigates and Hudong Thondor and for modernized Combattante Kaman FAC and air-launched C-801K version; Iranian designation Karus; possibly assembled/produced in Iran
+Iran,10.0, Hudong, FAC,1992.0, 1994-1996,10.0,
+Iran,9.0, Y-12, Light transport ac,1993.0, 1994-1995,9.0, For Revolutionary Guards
+Iran,2.0, Y-7, Transport aircraft,1994.0, 1998,2.0,
+Iran,5.0, F-7M Airguard, Fighter aircraft,1995.0, 1996,5.0, Designation uncertain reported as combat aircraft
+Iran,3.0, JY-14, Air search radar,1996.0, 1999-2001,3.0,
+Iran,40.0, C-701/FL-8, Anti-ship missile,1998.0, 2001-2004,40.0, For China Cat FAC; C-701T and possibly C-701R version; possibly assembled/produced in Iran as Noor. Kosar or Fajr-e Darya
+Iran,6.0, Crotale, SAM system,1998.0, 1999-2004,6.0, HQ-7 FM-80 version; possibly incl production in Iran as Shahab Thaqeb
+Iran,250.0, R-440 Crotale, SAM,1998.0, 1999-2004,250.0, HQ-7 FM-80 version; possibly produced in Iran as Shahab Thaqeb
+Iran,9.0, China Cat, FAC,2000.0, 2001-2004,9.0, Incl 4 modified version without anti-ship missiles
+Iraq,5.0, Predator, Patrol craft,2002.0, 2004,5.0, Funded by US aid
+Iraq,20.0, AR-1, ASM,2014.0, 2015,20.0, For CH-4B UAV
+Iraq,4.0, CH-4, UAV/UCAV,2014.0, 2015,4.0, Armed CH-4B version
+Iraq,20.0, FT-9, Guided bomb,2014.0, 2015,20.0, For CH-4B UAV
+Jordan,150.0, W-86 120mm, Mortar,2004.0, 2005,150.0,
+Jordan,4.0, WM-80 273mm, Self-propelled MRL,2009.0, 2010,4.0,
+Jordan,20.0, QW-2, Portable SAM,2014.0, 2014,20.0, Designation uncertain
+Jordan,2.0, CH-4, UAV/UCAV,2015.0, 2016,2.0, CH-4B armed version
+Kazakhstan,2.0, Wing Loong-1, UAV/UCAV,2015.0, 2016,2.0,
+Kenya,6.0, Y-12, Light transport ac,1996.0, 1997,6.0,
+Kenya,6.0, Y-12, Light transport ac,1999.0, 2000,6.0,
+Kenya,32.0, WZ-551, APC,2006.0, 2007,32.0,
+Kenya,4.0, AS365/AS565 Panther, Helicopter,2009.0, 2010,4.0, Z-9WA armed version
+Kenya,5.0, AS365/AS565 Panther, Helicopter,2012.0, 2014-2015,5.0, Z-9WA armed version
+Kenya,30.0, VN-4, APV/APC,2015.0, 2016,30.0, For police
+Kenya,25.0, CS/VP3, APC,2016.0, 2016,25.0, For police
+Khmer Rouge Cambodia*,24.0, Type-59, Tank,1990.0, 1990,24.0, Aid; probably Second-hand
+Kuwait,27.0, PCZ-45, ALV,1998.0, 2000-2001,27.0, Part of $187 m deal
+Kuwait,27.0, PLZ-45 155mm, Self-propelled gun,1998.0, 2000-2001,27.0, Part of $187 m deal
+Kuwait,4.0, Type-85, APC,1998.0, 2000-2001,4.0, Part of $187 m deal; ZCY-45 and ZCL-45 command post versions for use with PLZ-45 self-propelled guns
+Kuwait,1.0, W-653/Type-653, ARV,1998.0, 2000,1.0, Part of $187 m deal
+Kuwait,24.0, PCZ-45, ALV,2001.0, 2002-2003,24.0, Part of $200 m deal
+Kuwait,24.0, PLZ-45 155mm, Self-propelled gun,2001.0, 2002-2003,24.0, Part of $200 m deal
+Kuwait,4.0, Type-85, APC,2001.0, 2002-2003,4.0, Part of $200 m deal; ZCY-45 and ZCL-45 command post versions for use with PLZ-45 self-propelled guns
+Kuwait,1.0, W-653/Type-653, ARV,2001.0, 2003,1.0, Part of $200 m deal
+Laos,1.0, Y-7, Transport aircraft,1990.0, 1990,1.0, Y-7-100 version
+Laos,2.0, AS365/AS565 Panther, Helicopter,2006.0, 2008,2.0, Z-9A version; no. could be up to 4
+Laos,2.0, MA60, Transport aircraft,2010.0, 2012,2.0, MA-600 version
+Laos,2.0, MA60, Transport aircraft,2012.0, 2013,2.0, MA-600 version
+Laos,9.0, LE-500 Little Eagle, Light aircraft,2015.0, 2015-2017,9.0,
+Malaysia,64.0, FN-6, Portable SAM,2008.0, 2009,64.0,
+Mali,2.0, AS365/AS565 Panther, Helicopter,2000.0, 2000,2.0, Aid; Z-9B version
+Mali,2.0, Y-12, Light transport ac,2016.0, 2017,2.0, Y-12E version
+Mauritania,2.0, Y-12, Light transport ac,1994.0, 1995-1996,2.0,
+Mauritania,1.0, Y-7, Transport aircraft,1996.0, 1997,1.0, Y-7-100C version
+Mauritania,1.0, Huangpu, Patrol craft,2001.0, 2002,1.0, Mauritanian designation Limam el Hadrami
+Mauritania,2.0, AS365/AS565 Panther, Helicopter,2002.0, 2003,2.0, Z-9 version
+Mauritania,2.0, Huangpu, Patrol craft,2014.0, 2016,2.0,
+Mexico,13.0, Model-56 105mm, Towed gun,2006.0, 2006,13.0, $14 m deal; Type-90 M-90 version
+Morocco,12.0, AR-2/PHL-03 300mm, Self-propelled MRL,2009.0, 2010,12.0,
+Morocco,54.0, Type-90-2M/MBT-2000, Tank,2009.0, 2010,54.0,
+Morocco,75.0, PL-9, SRAAM,2010.0, 2011-2012,75.0, For Sky Shield air defence systems
+Morocco,50.0, Red Arrow-8, Anti-tank missile,2010.0, 2010,50.0,
+Morocco,6.0, Sky Shield, AD system,2010.0, 2011-2012,6.0,
+Myanmar,3.0, JLG-43, Height-finding radar,1988.0, 1989-1991,3.0, Possibly Second-hand
+Myanmar,3.0, JLP-40, Air search radar,1988.0, 1989-1991,3.0, Possibly Second-hand
+Myanmar,55.0, Type-63, Light tank,1989.0, 1989-1990,55.0,
+Myanmar,30.0, Type-69, Tank,1989.0, 1990,30.0, Type-69-II version
+Myanmar,100.0, Type-85, APC,1989.0, 1990,100.0,
+Myanmar,2.0, F-6/J-6, Fighter aircraft,1990.0, 1991,2.0, Probably FT-6 trainer version
+Myanmar,12.0, F-7M Airguard, Fighter aircraft,1990.0, 1990-1991,12.0, Incl 2 FT-7 version
+Myanmar,200.0, HN-5A, Portable SAM,1990.0, 1990-1992,200.0,
+Myanmar,75.0, PL-2, SRAAM,1990.0, 1990-1991,75.0, For F-7M combat aircraft
+Myanmar,10.0, Type-037/Hainan, Patrol craft,1990.0, 1991-1993,10.0, Myanmarese designation Yan Sit Aung
+Myanmar,4.0, Type-311, Fire control radar,1990.0, 1990-1993,4.0, For use with 24 Type-74 37mm AA guns; could be Type-702
+Myanmar,24.0, Type-74 37mm, AA gun,1990.0, 1990-1993,24.0,
+Myanmar,5.0, EFR-1, Fire control radar,1991.0, 2002-2003,5.0, For 5 Myanmar patrol craft produced in Myanmar
+Myanmar,5.0, Type-76A 37mm, Naval gun,1991.0, 1998-2002,5.0, For 5 Myanmar patrol craft produced in Myanmar
+Myanmar,2.0, Y-12, Light transport ac,1991.0, 1992,2.0, Y-12-IV version
+Myanmar,4.0, Y-8, Transport aircraft,1991.0, 1994,4.0, Y-8D version
+Myanmar,24.0, A-5C/Fantan, FGA aircraft,1992.0, 1997-1998,24.0,
+Myanmar,12.0, F-7M Airguard, Fighter aircraft,1992.0, 1993,12.0, Incl 2 FT-7 version
+Myanmar,1.0, JY-8A, Fire control radar,1992.0, 1993,1.0, For use with Type-59 57mm AA guns
+Myanmar,225.0, PL-2, SRAAM,1992.0, 1993-1998,225.0, For F-7M and A-5C combat aircraft
+Myanmar,12.0, F-7M Airguard, Fighter aircraft,1993.0, 1998-1999,12.0, Incl some FT-7 version
+Myanmar,40.0, PL-2, SRAAM,1993.0, 1998-1999,40.0, For F-7M combat aircraft; status uncertain
+Myanmar,100.0, PL-5B, SRAAM,1993.0, 1998-1999,100.0, For F-7M combat aircraft
+Myanmar,50.0, Type-63, Light tank,1993.0, 1993,50.0,
+Myanmar,30.0, Type-63 107mm, Towed MRL,1993.0, 1993,30.0,
+Myanmar,50.0, Type-69, Tank,1993.0, 1995,50.0, Type-69-II version
+Myanmar,150.0, Type-85, APC,1993.0, 1993,150.0,
+Myanmar,50.0, C-801, Anti-ship missile,1994.0, 1995-1997,50.0, For Houxin Maga FAC
+Myanmar,6.0, Type-037-1G/Houxin, FAC,1994.0, 1995-1997,6.0, Myanmarese designation Maga
+Myanmar,3.0, Type-344, Fire control radar,1996.0, 2004-2005,3.0, For 3 Myanmar FAC produced in Myanmar
+Myanmar,12.0, K-8 Karakorum-8, Trainer/combat ac,1997.0, 1999,12.0,
+Myanmar,8.0, AK-230 30mm, Naval gun,2001.0, 2004-2007,8.0, For 4 Myamnar FAC produced in Myanmar; supplier uncertain
+Myanmar,30.0, C-801, Anti-ship missile,2001.0, 2004-2005,30.0, For Myanmar FAC; designation uncertain could be C-802
+Myanmar,25.0, Type-59D, Tank,2002.0, 2004,25.0, Probably second-hand Type-59 rebuilt to Type-59D before delivery
+Myanmar,2.0, BT-6/PT-6, Trainer aircraft,2005.0, 2006,2.0,
+Myanmar,20.0, Type-90 122mm, Self-propelled MRL,2005.0, 2006,20.0,
+Myanmar,20.0, C-802/CSS-N-8, Anti-ship missile,2007.0, 2008-2009,20.0, For modernization of 2 frigates
+Myanmar,6.0, SH-1 155mm, Self-propelled gun,2008.0, 2009,6.0,
+Myanmar,5.0, TH-5711 Smart Hunter, Air search radar,2008.0, 2010,5.0,
+Myanmar,20.0, C-802/CSS-N-8, Anti-ship missile,2009.0, 2013-2014,20.0, For FAC-491 FAC
+Myanmar,50.0, K-8 Karakorum-8, Trainer/combat ac,2009.0, 2011-2016,24.0, No. could be 60 or 72; assembled in Myanmar
+Myanmar,2.0, NG-18 30mm, Naval gun,2009.0, 2013-2014,2.0, For 2 FAC-491 FAC produced in Myanmar
+Myanmar,2.0, Type-348, Sea search radar,2009.0, 2013-2014,2.0, For 2 FAC-491 FAC produced in Myanmar
+Myanmar,50.0, Type-90-2M/MBT-2000, Tank,2009.0, 2012-2013,50.0,
+Myanmar,8.0, NG-18 30mm, Naval gun,2010.0, 2014-2015,8.0, For 2 Kyan Sit Thar frigates produced in Myanmar; designation and supplier uncertain could be AK-630 from Russia or other supplier
+Myanmar,2.0, Type-347G, Fire control radar,2010.0, 2014-2015,2.0, For 2 Kyan Sit That frigates produced in Myanmar; for use with 76mm gun
+Myanmar,2.0, Type-360 Seagull, Air search radar,2010.0, 2014-2015,2.0, Type-364 Seagull-C version; for 2 Kyan Sit That frigates produced in Myanmar
+Myanmar,20.0, Type-81 122mm, Self-propelled MRL,2010.0, 2012,20.0,
+Myanmar,100.0, WMA-301 Assaulter, AFSV,2010.0, 2012-2015,100.0,
+Myanmar,10.0, ZFB-05, APC,2010.0, 2011,10.0,
+Myanmar,30.0, C-802/CSS-N-8, Anti-ship missile,2011.0, 2012,30.0, For Type-053 Jianghu-2 frigates
+Myanmar,10.0, C-802/CSS-N-8, Anti-ship missile,2011.0, 2016,10.0, For Tabinshwehti corvette produced in Myanmar
+Myanmar,25.0, HY-2/SY-1A/CSS-N-2, Anti-ship missile,2011.0, 2012,25.0, Probably second-hand; for Type-053 Jianghu-2 frigates
+Myanmar,2.0, NG-18 30mm, Naval gun,2011.0, 2016,2.0, For 1 Tabinshwehti corvette produced in Myanmar; supplier possibly China
+Myanmar,2.0, Type-53/Jianghu-1, Frigate,2011.0, 2012,2.0, Second-hand; Type-053H1 Jianghu-2 version
+Myanmar,76.0, WZ-551/Type-92, IFV,2011.0, 2012-2013,76.0,
+Myanmar,12.0, CH-3, UAV/UCAV,2013.0, 2014-2015,12.0,
+Myanmar,4.0, KS-1A, SAM system,2013.0, 2015-2016,4.0,
+Myanmar,200.0, KS-1A, SAM,2013.0, 2015-2016,200.0,
+Myanmar,16.0, JF-17 Thunder/FC-1, FGA aircraft,2015.0, 2017,4.0, Possibly from Pakistani production line
+Myanmar,2.0, Y-8, Transport aircraft,2015.0, 2016,2.0, Y-8F-200W version
+Namibia,2.0, Y-12, Light transport ac,1997.0, 1997,2.0,
+Namibia,4.0, K-8 Karakorum-8, Trainer/combat ac,2000.0, 2001,4.0, No. could be up to 12
+Namibia,12.0, F-7MG, Fighter aircraft,2005.0, 2006-2008,12.0, F-7NM version; incl FT-7NM version
+Namibia,21.0, WZ-523, APC,2008.0, 2009,21.0, For Namibian UN peacekeeping units
+Namibia,2.0, AS365/AS565 Panther, Helicopter,2009.0, 2012,2.0, H-425 Z-9 version
+Namibia,1.0, Elephant, OPV,2010.0, 2012,1.0,
+Namibia,10.0, WZ-523/Type-05, IFV,2012.0, 2013,10.0,
+Nepal,5.0, WZ-551, APC,2005.0, 2005,5.0,
+Niger,5.0, ZFB-05, APC,2007.0, 2009,5.0,
+Niger,2.0, WZ-523, APC,2008.0, 2009,2.0,
+Nigeria,15.0, F-7M Airguard, Fighter aircraft,2005.0, 2010,15.0, $251 m deal; F-7NI version; incl 3 FT-7NI version
+Nigeria,20.0, PL-9, SRAAM,2005.0, 2010,20.0, $20 m deal part of $32 m deal incl other armament; PL-9C version; for F-7NI combat aircraft
+Nigeria,2.0, P18N, OPV,2012.0, 2014-2016,2.0, NGN6.8 m $42 m deal
+Nigeria,120.0, CS/VP3, APC,2013.0, 2014-2015,120.0,
+Nigeria,30.0, AR-1, ASM,2014.0, 2014,30.0,
+Nigeria,5.0, CH-3, UAV/UCAV,2014.0, 2014,5.0, Armed UCAV version
+Nigeria,1.0, Type-62, Patrol craft,2014.0, 2015,1.0, Aid
+North Korea,30.0, F-7A/J-7, Fighter aircraft,1988.0, 1989-1991,30.0, F-7B version
+Oman,6.0, Type-90 122mm, Self-propelled MRL,2001.0, 2002,6.0,
+Oman,50.0, WZ-551, APC,2003.0, 2003,50.0, WZ-551B version; incl CP and ambulance version
+Pakistan,75.0, F-7M Airguard, Fighter aircraft,1988.0, 1989-1991,75.0, $225 m deal; F-7P F-7MP version; incl 15 FT-7P version
+Pakistan,4.0, P-58A, Patrol craft,1988.0, 1989-1990,4.0, Pakistani designation Barkat; for coast guard
+Pakistan,250.0, Type-69, Tank,1990.0, 1993-1999,250.0, Type-69-IIP or Type-69-IIMP version; incl assembly and probably production in Pakistan
+Pakistan,40.0, F-7M Airguard, Fighter aircraft,1992.0, 1993,40.0, F-7P F-7MP version
+Pakistan,87.0, Type-59-1 130mm, Towed gun,1992.0, 1998-2000,87.0,
+Pakistan,3.0, LL-1, Fire control radar,1994.0, 1996-1997,3.0, For modernization of 3 Tariq Amazon or Type-21 frigates; for use with LY-60N SAM system
+Pakistan,40.0, PL-11/FD-60, BVRAAM,1994.0, 1996-1997,40.0, For 3 modernized Tariq Amazon frigates
+Pakistan,2.0, Type-76A 37mm, Naval gun,1995.0, 1997-1999,2.0, For 2 Jalalat FAC produced in Pakistan
+Pakistan,6.0, Y-12, Light transport ac,1995.0, 1996-1997,6.0,
+Pakistan,2.0, Type-347G, Fire control radar,1996.0, 1997-1999,2.0, For 2 Jalalat FAC produced in Pakistan
+Pakistan,20.0, C-802/CSS-N-8, Anti-ship missile,1997.0, 1997-1999,20.0, For Jalalat FAC
+Pakistan,46.0, F-7MG, Fighter aircraft,2001.0, 2001-2003,46.0, F-7PG version; incl 6 or 9 FT-7PG version
+Pakistan,11.0, F-7MG, Fighter aircraft,2002.0, 2003,11.0, F-7PG version
+Pakistan,6.0, A-5C/Fantan, FGA aircraft,2003.0, 2003,6.0,
+Pakistan,20.0, C-802/CSS-N-8, Anti-ship missile,2003.0, 2006,20.0, For Jurrat FAC
+Pakistan,143.0, D-30 122mm, Towed gun,2003.0, 2003-2004,143.0,
+Pakistan,2.0, Type-347G, Fire control radar,2003.0, 2006,2.0, For 2 Jurrat FAC from Thailand
+Pakistan,1.0, YLC-2, Air search radar,2003.0, 2003,1.0,
+Pakistan,10.0, YLC-6, Air search radar,2003.0, 2005-2006,10.0,
+Pakistan,6.0, AS565S Panther, ASW helicopter,2005.0, 2009-2010,6.0, Z-9EC version
+Pakistan,70.0, C-802/CSS-N-8, Anti-ship missile,2005.0, 2009-2013,70.0, For Jiangwei F-22P frigates
+Pakistan,100.0, R-440 Crotale, SAM,2005.0, 2009-2013,100.0, For Jiangwei F-22P frigates; HQ-7 FM-80 version
+Pakistan,600.0, PL-12/SD-10, BVRAAM,2006.0, 2010-2017,375.0, For JF-17 and possibly modernized Mirage-3/5 combat aircraft
+Pakistan,1000.0, PL-5E, SRAAM,2006.0, 2009-2017,760.0, For JF-17 combat aircraft; PL-5E-II version
+Pakistan,100.0, C-802/CSS-N-8, Anti-ship missile,2008.0, 2012-2017,60.0, For JF-17 combat aircraft
+Pakistan,750.0, LS-3, Guided bomb,2008.0, 2010-2017,575.0, For JF-17 combat aircraft
+Pakistan,1000.0, LS-6-500, Guided bomb,2008.0, 2010-2017,625.0, For JF-17 combat aircraft
+Pakistan,750.0, LT-2, Guided bomb,2008.0, 2010-2017,550.0, For JF-17 combat aircraft
+Pakistan,2.0, SLC-2, Arty locating radar,2008.0, 2010,2.0, For use with A-100 MRL
+Pakistan,150.0, WMD-7, Aircraft EO system,2008.0, 2009-2017,85.0, For JF-17 combat aircraft
+Pakistan,4.0, ZDK-03, AEW&C aircraft,2008.0, 2011-2014,4.0, $278 m deal; designated KE-03 in Pakistan
+Pakistan,50.0, FN-6, Portable SAM,2009.0, 2010,50.0,
+Pakistan,30.0, C-802/CSS-N-8, Anti-ship missile,2010.0, 2012-2014,30.0, For Azmat FAC
+Pakistan,50.0, CM-400AKG, Anti-ship missile,2010.0, 2012-2016,50.0, For JF-17 combat aircraft
+Pakistan,4.0, F-7A/J-7, Fighter aircraft,2010.0, 2010,4.0, Second-hand; FT-7A version; aid
+Pakistan,20.0, GDF 35mm, AA gun,2011.0, 2012,20.0, Type-90 version
+Pakistan,100.0, LD-10, ARM,2011.0, 2014-2017,100.0,
+Pakistan,10.0, Skyguard, Fire control radar,2011.0, 2012,10.0, For use with GDF Type-90 35mm anti-aircraft guns
+Pakistan,30.0, C-802/CSS-N-8, Anti-ship missile,2013.0, 2017,15.0, For Azmat FAC
+Pakistan,10.0, FM-90, SAM system,2013.0, 2014-2016,10.0,
+Pakistan,400.0, FM-90, SAM,2013.0, 2014-2016,400.0,
+Pakistan,8.0, IBIS-150, Air search radar,2014.0, 2016-2017,8.0, $40 m deal
+Pakistan,300.0, LY-80, SAM,2014.0, 2015-2016,300.0,
+Pakistan,3.0, LY-80 SAMS, SAM system,2014.0, 2015-2016,3.0, $599 m deal
+Pakistan,3.0, WZ-10, Combat helicopter,2014.0, 2015,3.0,
+Pakistan,80.0, C-802/CSS-N-8, Anti-ship missile,2015.0,,, For 6 Type-041 S-20 submarines
+Pakistan,100.0, SET-65 Yenot-2, ASW torpedo,2015.0,,, Yu-3 version; for Type-041 submarines
+Pakistan,2.0, Wing Loong-1, UAV/UCAV,2015.0, 2015,2.0,
+Pakistan,100.0, Yu-4 533mm, AS torpedo,2015.0,,, For 6 Type-041 submarines
+Pakistan,1.0, Type-054A/Jiangkai-2, Frigate,2017.0,,, Option on 2 more
+Peru,6.0, Y-12, Light transport ac,1991.0, 1991-1992,6.0, Y-12-II version
+Peru,15.0, FN-6, Portable SAM,2009.0, 2010,15.0, $1.1 m deal
+Peru,10.0, QW-11, Portable SAM,2009.0, 2009,10.0, QW-18 version
+Peru,27.0, Type-90 122mm, Self-propelled MRL,2013.0, 2015,27.0, $39 m deal; Type-90BM version
+Qatar,12.0, BP-12A, SSM,2016.0, 2017,12.0, For SY-400 MRL
+Qatar,2.0, SY-400 TEL, Self-propelled MRL/SSM TEL,2016.0, 2017,2.0,
+Rwanda,6.0, SH-3 122mm, Self-propelled gun,2006.0, 2007,6.0,
+Rwanda,20.0, ZFB-05, APC,2008.0, 2008,20.0, Designation uncertain
+Saudi Arabia,54.0, PLZ-45 155mm, Self-propelled gun,2007.0, 2008-2009,54.0,
+Saudi Arabia,2.0, CH-4, UAV/UCAV,2014.0, 2015,2.0,
+Senegal,12.0, WMA-301 Assaulter, AFSV,2015.0, 2016,12.0,
+Senegal,1.0, WZ-551, APC,2015.0, 2016,1.0, Command post version
+Seychelles,2.0, Y-12, Light transport ac,2011.0, 2011,2.0, Aid; incl for maritime patrol
+Seychelles,1.0, Type-62, Patrol craft,2013.0, 2014,1.0, Aid; Seychelles designation Etoile
+Sierra Leone,1.0, Type-062-1/Haizhui, Patrol craft,1997.0, 1997,1.0, Sierra Leonese designation Rassin
+Sierra Leone,1.0, Type-062/Shanghai, Patrol craft,2005.0, 2006,1.0, Possibly Second-hand; aid; Shanghai-3 version
+Sierra Leone,6.0, Type-83 122mm, Towed gun,2010.0, 2011,6.0, Possibly second-hand; aid; Type-96 version
+Sierra Leone,10.0, VN-4, APV/APC,2015.0, 2016,10.0, For use by Sierra Leone peacekeeping forces in Mali; designation uncertain reported as 'MRAP'.
+Slovakia,1.0, A319, Transport aircraft,2016.0, 2017,1.0, Second-hand from Hong Kong-based civilian operator; A319-100 version; incl for government VIP transport
+South Africa,50.0, FN-6, Portable SAM,2015.0, 2016,50.0,
+South Sudan,1200.0, Red Arrow-73, Anti-tank missile,2013.0, 2014,1200.0, $14.5 m deal incl 100 launchers; Red Arrow-73D version
+Sri Lanka,5.0, F-7A/J-7, Fighter aircraft,1990.0, 1991,5.0, F-7B version; incl 1 FT-7; mainly for use against LTTE rebels
+Sri Lanka,2.0, FT-5/JJ-5, Trainer aircraft,1990.0, 1991,2.0,
+Sri Lanka,25.0, Type-59, Tank,1990.0, 1991,25.0,
+Sri Lanka,12.0, Type-59-1 130mm, Towed gun,1990.0, 1991,12.0,
+Sri Lanka,20.0, Type-83 122mm, Towed gun,1990.0, 1991,20.0,
+Sri Lanka,3.0, Y-12, Light transport ac,1990.0, 1991,3.0, Incl for use as bomber aircraft against LTTE rebels
+Sri Lanka,3.0, Type-062/Shanghai, Patrol craft,1991.0, 1991-1992,3.0, Modified Shanghai-2 version; Sri Lankan designation Rana
+Sri Lanka,20.0, Type-85, APC,1991.0, 1991-1992,20.0,
+Sri Lanka,20.0, Type-85 IFV, IFV,1991.0, 1991,20.0,
+Sri Lanka,10.0, WZ-551/Type-90, IFV,1991.0, 1991,10.0,
+Sri Lanka,1.0, Y-8, Transport aircraft,1992.0, 1994,1.0, Possibly second-hand; possibly incl for use as combat aircraft against LTTE rebels
+Sri Lanka,1.0, Type-037-1/Haiqing, Patrol craft,1994.0, 1996,1.0, Sri Lankese designation Parakramabahu
+Sri Lanka,3.0, Type-062-1/Haizhui, Patrol craft,1994.0, 1996,3.0, Sri Lankese designation Ranajaya
+Sri Lanka,1.0, Type-074/Yuhai, Landing ship,1994.0, 1995,1.0, Sri Lankan designation Shakthi
+Sri Lanka,3.0, Type-062/Shanghai, Patrol craft,1996.0, 2000,3.0, Shanghai-2 version; Sri Lankan designation Rana
+Sri Lanka,2.0, Type-062-1G/Lushun, Patrol craft,1997.0, 1998,2.0, Sri Lankese designation Prathpa
+Sri Lanka,36.0, D-20 152mm, Towed gun,1998.0, 1999,36.0, Type-66 version
+Sri Lanka,10.0, BT-6/PT-6, Trainer aircraft,2000.0, 2000,10.0, BT-6A version
+Sri Lanka,6.0, K-8 Karakorum-8, Trainer/combat ac,2000.0, 2001,6.0,
+Sri Lanka,120.0, WZ-551, APC,2001.0, 2002-2007,120.0,
+Sri Lanka,3.0, K-8 Karakorum-8, Trainer/combat ac,2004.0, 2005,3.0,
+Sri Lanka,3.0, Type-408C, Air search radar,2004.0, 2004-2006,3.0, Designation uncertain; incl for civilian air traffic control
+Sri Lanka,70.0, WZ-551/Type-92, IFV,2005.0, 2006-2007,70.0,
+Sri Lanka,4.0, F-7MG, Fighter aircraft,2007.0, 2008,4.0, Possibly aid; F-7GS version; no. may be 6
+Sri Lanka,1.0, JY-11, Air search radar,2007.0, 2007,1.0, Mainly for use against LTTE rebels
+Sri Lanka,25.0, PL-5E, SRAAM,2007.0, 2008,25.0, For F-7GS combat aircraft
+Sri Lanka,40.0, Type-89/ZSD-89, APC,2007.0, 2007-2008,40.0, Incl command post version
+Sri Lanka,2.0, Y-12, Light transport ac,2009.0, 2010,2.0,
+Sudan,18.0, D-30 122mm, Towed gun,1991.0, 1992,18.0, Designation uncertain
+Sudan,2.0, Y-8, Transport aircraft,1991.0, 1991,2.0, Y-8D version
+Sudan,6.0, F-7A/J-7, Fighter aircraft,1995.0, 1997,6.0, F-7B version; no. could be 7; status uncertain
+Sudan,25.0, Type-85-IIM, Tank,2001.0, 2002-2006,25.0, Possibly assembled in Sudan; Sudanese designation Al-Bashier
+Sudan,12.0, A-5C/Fantan, FGA aircraft,2002.0, 2003,12.0, No. could be up to 20
+Sudan,50.0, WZ-551/Type-92, IFV,2003.0, 2006-2015,50.0, Assembled of produced in Sudan as Shateef-2
+Sudan,9.0, BT-6/PT-6, Trainer aircraft,2004.0, 2005,9.0, BT-6A version
+Sudan,12.0, K-8 Karakorum-8, Trainer/combat ac,2004.0, 2005-2008,12.0, Incl for combat role
+Sudan,50.0, FN-6, Portable SAM,2005.0, 2006,50.0,
+Sudan,50.0, Type-59D, Tank,2008.0, 2010-2015,50.0, Sudanese Type-59 rebuilt to Type-59D; assembled in Sudan
+Sudan,450.0, Red Arrow-8, Anti-tank missile,2009.0, 2009-2012,450.0,
+Sudan,6.0, WS-1 302mm, Self-propelled MRL,2009.0, 2014,6.0,
+Sudan,2.0, FB-6, Mobile SAM system,2015.0, 2016,2.0,
+Sudan,100.0, FN-6, Portable SAM,2015.0, 2016,100.0,
+Sudan,6.0, FTC-2000, Trainer/combat ac,2015.0, 2017,3.0,
+Syria,5.0, JY-27, Air search radar,2008.0, 2009-2010,5.0,
+Syria,1.0, JYL-1, Air search radar,2008.0, 2009,1.0,
+Syria,4.0, Type-120, Air search radar,2008.0, 2009,4.0,
+Syria,500.0, Red Arrow-73, Anti-tank missile,2013.0, 2014,500.0, Red Arrow-73D version
+Tanzania,2.0, Type-062/Shanghai, Patrol craft,1991.0, 1992,2.0, Shanghai-2 version
+Tanzania,2.0, Y-12, Light transport ac,1994.0, 1994,2.0,
+Tanzania,2.0, Y-8, Transport aircraft,2002.0, 2003,2.0, Y-8F-200 version
+Tanzania,4.0, ZFB-05, APC,2005.0, 2006-2007,4.0,
+Tanzania,30.0, Type-59G, Tank,2007.0, 2011-2013,30.0, Tanzanian Type-59 rebuilt to Type-59G
+Tanzania,14.0, F-7MG, Fighter aircraft,2008.0, 2009-2012,14.0, F-7TN version; incl 2 FT-7TN version
+Tanzania,6.0, K-8 Karakorum-8, Trainer/combat ac,2010.0, 2011-2012,6.0,
+Tanzania,10.0, WZ-551, APC,2010.0, 2011-2012,10.0,
+Tanzania,12.0, A-100 300mm, Self-propelled MRL,2012.0, 2013,12.0,
+Tanzania,1.0, FB-6, Mobile SAM system,2012.0, 2013,1.0,
+Tanzania,50.0, FN-6, Portable SAM,2012.0, 2013,50.0, For FB-6 SAM system
+Tanzania,1.0, YLC-18, Air search radar,2012.0, 2013,1.0, Designation uncertain
+Tanzania,10.0, PLL-05 120mm, Self-propelled mortar,2013.0, 2014,10.0,
+Tanzania,10.0, Type-63A, Light tank,2013.0, 2014,10.0,
+Tanzania,5.0, Type-84, ABL,2013.0, 2014,5.0, Type-84A version
+Tanzania,2.0, Type-037-1/Haiqing, Patrol craft,2014.0, 2015,2.0, Probably second-hand
+Thailand,5.0, W-653/Type-653, ARV,1987.0, 1989-1990,5.0,
+Thailand,50.0, C-801, Anti-ship missile,1988.0, 1991,50.0, $40 m deal; for Jianghu Chao Phraya frigates
+Thailand,4.0, Type-05/Jianghu-1, Frigate,1988.0, 1991-1992,4.0, Part of $272 m deal; Thai designation Chao Phraya
+Thailand,25.0, Type-311, Fire control radar,1991.0, 1991-1992,25.0, For use with 122 Type-74 37mm and possibly 24 Type-59 57mm AA guns
+Thailand,122.0, Type-74 37mm, AA gun,1991.0, 1991-1992,122.0,
+Thailand,1.0, Similan, Support ship,1993.0, 1996,1.0,
+Thailand,28.0, C-801, Anti-ship missile,1999.0, 2000,28.0, Designation uncertain
+Thailand,2.0, Pattani, OPV/frigate,2002.0, 2005-2006,2.0, EUR75-80 m $66-95 m deal
+Thailand,60.0, C-802/CSS-N-8, Anti-ship missile,2007.0, 2009-2014,60.0, For modernized Chao Phraya frigates
+Thailand,4.0, SR-5, Self-propelled MRL,2012.0, 2013,4.0, SR-4 version; Thai designation PR-50
+Thailand,2.0, RA-3, Arty locating radar,2015.0, 2016,2.0,
+Thailand,1.0, KS-1A, SAM system,2016.0, 2016,1.0, KS-1C version
+Thailand,50.0, KS-1A, SAM,2016.0, 2016,50.0, KS-1C version
+Thailand,28.0, VT-4, Tank,2016.0, 2017,28.0, THB4.9 b $140 m deal
+Thailand,1.0, S26T, Submarine,2017.0,,, THB13.5 b $390 m deal; delivery planned 2023
+Thailand,34.0, Type-07P/VN-1, IFV,2017.0,,, THB2.3 b $58 m deal; delivery planned by 2020
+Thailand,10.0, VT-4, Tank,2017.0,,, THB2 b $58 m deal
+Timor-Leste,2.0, Type-062/Shanghai, Patrol craft,2008.0, 2010,2.0, $28 m deal; Timor-Leste designation Jaco
+Trinidad and Tobago,1.0, Type-718/Haijing, OPV,2015.0, 2015,1.0, Second-hand; Trinidad designation Nelson
+Tunisia,3.0, Type-062-1/Haizhui, Patrol craft,1993.0, 1994,3.0, Modified Haizhui or Huludao; Tunesian designation Utique
+Turkmenistan,10.0, AR-1, ASM,2015.0, 2016,10.0, For CH-3 UCAV/UAV
+Turkmenistan,2.0, CH-3, UAV/UCAV,2015.0, 2016,2.0,
+Turkmenistan,10.0, CM-502KG, ASM,2015.0, 2016,10.0, For WJ-600 UCAV/UAV
+Turkmenistan,1.0, FM-90, SAM system,2015.0, 2016,1.0,
+Turkmenistan,40.0, FM-90, SAM,2015.0, 2016,40.0,
+Turkmenistan,1.0, HQ-9, SAM system,2015.0, 2016,1.0,
+Turkmenistan,75.0, HQ-9, SAM,2015.0, 2016,75.0,
+Turkmenistan,1.0, KS-1A, SAM system,2015.0, 2016,1.0, Probably KS-1C version
+Turkmenistan,50.0, KS-1A, SAM,2015.0, 2016,50.0, Probably KS-1C version
+Turkmenistan,2.0, WJ-600, UAV/UCAV,2015.0, 2016,2.0,
+Turkmenistan,1.0, YLC-18, Air search radar,2015.0, 2016,1.0,
+Turkmenistan,1.0, YLC-2, Air search radar,2015.0, 2016,1.0, YLC-2V version
+UAE,20.0, Type-59-1 130mm, Towed gun,1990.0, 1993-1994,20.0,
+UAE,5.0, Wing Loong-1, UAV/UCAV,2011.0, 2013-2014,5.0,
+UAE,5.0, Wing Loong-2, UAV/UCAV,2017.0, 2017,5.0,
+Uganda,2.0, Y-12, Light transport ac,2007.0, 2008,2.0, Y-12-IV version
+Uganda,5.0, Type-85-IIM, Tank,2008.0, 2008,5.0,
+Unknown recipients,5.0, CH-1, UAV,2003.0, 2004,5.0, For 'South Asian country'
+Venezuela,3.0, JYL-1, Air search radar,2005.0, 2006-2007,3.0, Part of $150 m programme for military-civilian air-surveillance system
+Venezuela,7.0, JYL-1, Air search radar,2006.0, 2008-2009,7.0,
+Venezuela,3.0, JY-11, Air search radar,2008.0, 2010-2011,3.0, JY-11B version
+Venezuela,18.0, K-8 Karakorum-8, Trainer/combat ac,2008.0, 2010,18.0,
+Venezuela,100.0, PL-5E, SRAAM,2008.0, 2010,100.0, For K-8 trainer/combat aircraft
+Venezuela,8.0, Y-8, Transport aircraft,2011.0, 2012-2014,8.0, Y-8F-200W version
+Venezuela,250.0, Red Arrow-73, Anti-tank missile,2012.0, 2015,250.0, Red Arrow-73D version for VN-18 IFV
+Venezuela,18.0, SM-4 81mm, Self-propelled mortar,2012.0, 2014-2015,18.0, Part of $500 m deal
+Venezuela,18.0, SR-5, Self-propelled MRL,2012.0, 2014-2015,18.0, Part of $500 m deal
+Venezuela,40.0, Type-07P/VN-1, IFV,2012.0, 2014-2015,40.0, Part of $500 m deal; VN-1 version
+Venezuela,121.0, VN-4, APV/APC,2012.0, 2013-2015,121.0, For National Guard
+Venezuela,25.0, ZBD-05/VN-18, IFV,2012.0, 2015,25.0, Part of $500 m deal; VN-18 version
+Venezuela,25.0, ZTD-05/VN-16, Light tank,2012.0, 2015,25.0, Part of $500 m deal; VN-16 version
+Venezuela,9.0, K-8 Karakorum-8, Trainer/combat ac,2014.0, 2016,9.0, K-8W or K-8VV version
+Yemen,25.0, C-801, Anti-ship missile,1992.0, 1995,25.0, For Huangfen FAC
+Yemen,3.0, Type-021/Huangfen, FAC,1992.0, 1995,3.0, Delivery delayed 2 years for financial reasons
+Zambia,3.0, Y-12, Light transport ac,1994.0, 1996,3.0, Y-12 II version; no. could be 5
+Zambia,8.0, K-8 Karakorum-8, Trainer/combat ac,1998.0, 2000,8.0,
+Zambia,2.0, MA60, Transport aircraft,2005.0, 2006,2.0,
+Zambia,5.0, Y-12, Light transport ac,2006.0, 2006-2007,5.0, Y-12-IV version
+Zambia,5.0, WZ-551, APC,2007.0, 2008,5.0, WZ-551B version
+Zambia,8.0, K-8 Karakorum-8, Trainer/combat ac,2010.0, 2012,8.0,
+Zambia,7.0, AS365/AS565 Panther, Helicopter,2011.0, 2012,7.0, $105 m deal
+Zambia,6.0, L-15, Trainer/combat ac,2014.0, 2016-2017,6.0, L-15AFT version
+Zambia,50.0, LS-6-500, Guided bomb,2014.0, 2016-2017,50.0, For L-15 combat/trainer aircraft
+Zambia,40.0, PL-5E, SRAAM,2014.0, 2016-2017,40.0,
+Zambia,50.0, YJ-9E, ASM,2014.0, 2016-2017,50.0, For L-15 combat/trainer aircraft
+Zimbabwe,2.0, F-7A/J-7, Fighter aircraft,1990.0, 1991,2.0, FT-7BZ version
+Zimbabwe,10.0, Type-85, APC,2004.0, 2004,10.0,
+Zimbabwe,10.0, Type-85 IFV, IFV,2004.0, 2004,10.0,
+Zimbabwe,5.0, Type-89/ZSD-89, APC,2004.0, 2004,5.0, ARV version
+Zimbabwe,6.0, K-8 Karakorum-8, Trainer/combat ac,2005.0, 2005,6.0, Bought after UK refused to sell spare parts for Hawk trainer/combat aircraft in service in Zimbabwe
